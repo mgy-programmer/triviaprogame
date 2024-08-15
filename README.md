@@ -2,6 +2,11 @@
 
 Welcome to **Game Trivia Pro** – a fun and engaging trivia game designed for fans of series and movies! Test your knowledge and challenge yourself with a variety of questions about your favorite TV shows and films.
 
+## Download Game Trivia Pro
+
+You can download **Game Trivia Pro** from the Google Play Store:
+
+[Download Game Trivia Pro](https://play.google.com/store/apps/details?id=com.ayotechgames.triviapro)
 
 <div style="display: flex; justify-content: space-around;">
    <img src="assets/screenshot_1.png" alt="Game Screenshot" width="250" height="500">

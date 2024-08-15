@@ -2,6 +2,14 @@
 
 Welcome to **Game Trivia Pro** – a fun and engaging trivia game designed for fans of series and movies! Test your knowledge and challenge yourself with a variety of questions about your favorite TV shows and films.
 
+
+<div style="display: flex; justify-content: space-around;">
+   <img src="assets/screenshot_1.png" alt="Game Screenshot" width="250" height="500">
+   <img src="assets/screenshot_2.png" alt="Game Screenshot" width="250" height="500">
+   <img src="assets/screenshot_3.png" alt="Game Screenshot" width="250" height="500">
+   <img src="assets/screenshot_4.png" alt="Game Screenshot" width="250" height="500">
+</div>
+
 ## Features
 
 - **Exciting Trivia Questions**: Enjoy a wide range of questions related to popular series and movies.

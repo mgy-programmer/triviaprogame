@@ -1,16 +1,36 @@
-# trivia_pro
+# Game Trivia Pro
 
-A new Flutter project.
+Welcome to **Game Trivia Pro** – a fun and engaging trivia game designed for fans of series and movies! Test your knowledge and challenge yourself with a variety of questions about your favorite TV shows and films.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Exciting Trivia Questions**: Enjoy a wide range of questions related to popular series and movies.
+- **Progressive Difficulty**: Correct answers lead to new questions, keeping the game challenging and engaging.
+- **User-Friendly Interface**: Intuitive and easy-to-navigate interface for a smooth gaming experience.
 
-A few resources to get you started if this is your first Flutter project:
+## How to Play
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Start the Game**: Launch Game Trivia Pro and start answering trivia questions.
+2. **Answer Questions**: Each question will test your knowledge about series and movies.
+3. **Get a Correct Answer**: If you answer correctly, you’ll move on to the next question.
+4. **Continue Playing**: Keep answering correctly to face new and more challenging questions.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/mgy-programmer/triviaprogame.git
+
+2. Navigate into the project directory:
+   ```bash
+   cd triviaprogame
+
+ ## License
+Game Trivia Pro is licensed under the MIT License.
+
+Contact
+For any questions or feedback, feel free to reach out to us at contact@ayotechcorp.com
+
+Enjoy playing and testing your trivia knowledge with Game Trivia Pro!
+   
+

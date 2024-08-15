@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "question": "Who is known as the 'Mother of Dragons'?",
+    "options": ["Cersei Lannister", "Sansa Stark", "Daenerys Targaryen", "Margaery Tyrell"],
+    "correct_option": "Daenerys Targaryen"
+  },
+  {
+    "id": 2,
+    "question": "What is the name of Ned Stark's ancestral sword?",
+    "options": ["Oathkeeper", "Widow's Wail", "Ice", "Needle"],
+    "correct_option": "Ice"
+  },
+  {
+    "id": 3,
+    "question": "Who is known as 'The Imp'?",
+    "options": ["Tywin Lannister", "Tyrion Lannister", "Joffrey Baratheon", "Bronn"],
+    "correct_option": "Tyrion Lannister"
+  },
+  {
+    "id": 4,
+    "question": "What is the capital city of the Seven Kingdoms?",
+    "options": ["King's Landing", "Winterfell", "Dragonstone", "Riverrun"],
+    "correct_option": "King's Landing"
+  },
+  {
+    "id": 5,
+    "question": "Who is the Three-Eyed Raven?",
+    "options": ["Bran Stark", "Jojen Reed", "Bloodraven", "The Night King"],
+    "correct_option": "Bran Stark"
+  },
+  {
+    "id": 6,
+    "question": "Which house has a sigil of a golden lion?",
+    "options": ["House Stark", "House Lannister", "House Targaryen", "House Baratheon"],
+    "correct_option": "House Lannister"
+  },
+  {
+    "id": 7,
+    "question": "What is the name of Arya Stark's direwolf?",
+    "options": ["Grey Wind", "Shaggydog", "Nymeria", "Lady"],
+    "correct_option": "Nymeria"
+  },
+  {
+    "id": 8,
+    "question": "Who is the ruler of the Iron Islands?",
+    "options": ["Balon Greyjoy", "Euron Greyjoy", "Asha Greyjoy", "Theon Greyjoy"],
+    "correct_option": "Euron Greyjoy"
+  },
+  {
+    "id": 9,
+    "question": "What is the name of Jon Snow's sword made of Valyrian steel?",
+    "options": ["Longclaw", "Oathkeeper", "Ice", "Heartsbane"],
+    "correct_option": "Longclaw"
+  },
+  {
+    "id": 10,
+    "question": "Which city is Daenerys Targaryen originally from?",
+    "options": ["Meereen", "Astapor", "Dragonstone", "King's Landing"],
+    "correct_option": "Dragonstone"
+  },
+  {
+    "id": 11,
+    "question": "Who is the master of whispers in King Robert Baratheon's Small Council?",
+    "options": ["Varys", "Littlefinger", "Grand Maester Pycelle", "Renly Baratheon"],
+    "correct_option": "Varys"
+  },
+  {
+    "id": 12,
+    "question": "What is the name of the Night's Watch castle at the Wall?",
+    "options": ["Winterfell", "Eastwatch-by-the-Sea", "Castle Black", "Shadow Tower"],
+    "correct_option": "Castle Black"
+  },
+  {
+    "id": 13,
+    "question": "Which house has a sigil of a direwolf?",
+    "options": ["House Lannister", "House Stark", "House Targaryen", "House Baratheon"],
+    "correct_option": "House Stark"
+  },
+  {
+    "id": 14,
+    "question": "Who is known as 'The Hound'?",
+    "options": ["Sandor Clegane", "Gregor Clegane", "Beric Dondarrion", "Thoros of Myr"],
+    "correct_option": "Sandor Clegane"
+  },
+  {
+    "id": 15,
+    "question": "What is the official motto of House Stark?",
+    "options": ["Hear Me Roar!", "As High as Honor", "Unbowed, Unbent, Unbroken", "Winter is Coming"],
+    "correct_option": "Winter is Coming"
+  },
+  {
+    "id": 16,
+    "question": "Who is the youngest son of Eddard and Catelyn Stark?",
+    "options": ["Robb Stark", "Rickon Stark", "Bran Stark", "Jon Snow"],
+    "correct_option": "Rickon Stark"
+  },
+  {
+    "id": 17,
+    "question": "What is the name of the Red Priestess who serves Stannis Baratheon?",
+    "options": ["Melisandre", "Kinvara", "Thoros of Myr", "Quaithe"],
+    "correct_option": "Melisandre"
+  },
+  {
+    "id": 18,
+    "question": "Which family is known for their association with the Faceless Men?",
+    "options": ["House Stark", "House Targaryen", "House Greyjoy", "House Blackfyre"],
+    "correct_option": "House Stark"
+  },
+  {
+    "id": 19,
+    "question": "Who is the Lord Commander of the Night's Watch in the first season?",
+    "options": ["Jeor Mormont", "Jon Snow", "Alliser Thorne", "Samwell Tarly"],
+    "correct_option": "Jeor Mormont"
+  },
+  {
+    "id": 20,
+    "question": "What is the name of Samwell Tarly's sword made of Valyrian steel?",
+    "options": ["Heartsbane", "Oathkeeper", "Widow's Wail", "Longclaw"],
+    "correct_option": "Heartsbane"
+  },
+  {
+    "id": 21,
+    "question": "Who is the leader of the Free Folk, also known as the Wildlings?",
+    "options": ["Tormund Giantsbane", "Mance Rayder", "Ygritte", "Orell"],
+    "correct_option": "Mance Rayder"
+  },
+  {
+    "id": 22,
+    "question": "What is the name of Jorah Mormont's father?",
+    "options": ["Jeor Mormont", "Balon Greyjoy", "Randyll Tarly", "Tywin Lannister"],
+    "correct_option": "Jeor Mormont"
+  },
+  {
+    "id": 23,
+    "question": "Who becomes the Hand of the King after Eddard Stark's arrest?",
+    "options": ["Petyr Baelish", "Renly Baratheon", "Tywin Lannister", "Stannis Baratheon"],
+    "correct_option": "Tywin Lannister"
+  },
+  {
+    "id": 24,
+    "question": "What is the name of the religious group led by the High Sparrow?",
+    "options": ["The Brotherhood Without Banners", "The Faceless Men", "The Sparrows", "The Silent Sisters"],
+    "correct_option": "The Sparrows"
+  },
+  {
+    "id": 25,
+    "question": "Who is the older brother of Gregor Clegane (The Mountain)?",
+    "options": ["Sandor Clegane", "Beric Dondarrion", "Renly Baratheon", "Stannis Baratheon"],
+    "correct_option": "Sandor Clegane"
+  },
+  {
+    "id": 26,
+    "question": "What is the name of the Maester who serves at Winterfell?",
+    "options": ["Maester Aemon", "Maester Pycelle", "Maester Luwin", "Maester Qyburn"],
+    "correct_option": "Maester Luwin"
+  },
+  {
+    "id": 27,
+    "question": "Which family holds the ancestral seat of Dragonstone?",
+    "options": ["House Targaryen", "House Baratheon", "House Greyjoy", "House Lannister"],
+    "correct_option": "House Targaryen"
+  },
+  {
+    "id": 28,
+    "question": "Who is the maester of the Night's Watch at the beginning of the series?",
+    "options": ["Maester Aemon", "Maester Luwin", "Maester Pycelle", "Maester Qyburn"],
+    "correct_option": "Maester Aemon"
+  },
+  {
+    "id": 29,
+    "question": "What is the name of the city that Daenerys conquers with her army and dragons?",
+    "options": ["Astapor", "Meereen", "Yunkai", "Volantis"],
+    "correct_option": "Astapor"
+  },
+  {
+    "id": 30,
+    "question": "Who is the master of coin on King Robert Baratheon's Small Council?",
+    "options": ["Petyr Baelish", "Renly Baratheon", "Varys", "Stannis Baratheon"],
+    "correct_option": "Petyr Baelish"
+  },
+  {
+    "id": 31,
+    "question": "What is the name of the inn where Arya Stark meets Hot Pie and Gendry?",
+    "options": ["The Crossroads Inn", "The Inn at the Crossroads", "The Broken Anvil", "The Peach"],
+    "correct_option": "The Inn at the Crossroads"
+  },
+  {
+    "id": 32,
+    "question": "Who is the leader of the Second Sons, a sellsword company in Essos?",
+    "options": ["Daario Naharis", "Mero", "Prendahl na Ghezn", "Brown Ben Plumm"],
+    "correct_option": "Daario Naharis"
+  },
+  {
+    "id": 33,
+    "question": "What is the name of the Valyrian steel sword that belongs to House Tarly?",
+    "options": ["Heartsbane", "Oathkeeper", "Widow's Wail", "Longclaw"],
+    "correct_option": "Heartsbane"
+  },
+  {
+    "id": 34,
+    "question": "Who is the maester of the Citadel who assists Samwell Tarly?",
+    "options": ["Maester Aemon", "Maester Luwin", "Maester Pycelle", "Maester Marwyn"],
+    "correct_option": "Maester Marwyn"
+  },
+  {
+    "id": 35,
+    "question": "What is the name of the Valyrian steel dagger used in an attempt to assassinate Bran Stark?",
+    "options": ["Widow's Wail", "Catspaw", "Dark Sister", "Heartsbane"],
+    "correct_option": "Catspaw"
+  },
+  {
+    "id": 36,
+    "question": "Who is the leader of the Golden Company, a sellsword company in Essos?",
+    "options": ["Harry Strickland", "Jon Connington", "Aegor Rivers", "Bittersteel"],
+    "correct_option": "Harry Strickland"
+  },
+  {
+    "id": 37,
+    "question": "What is the name of the city where the Iron Bank is located?",
+    "options": ["Braavos", "Lys", "Pentos", "Myr"],
+    "correct_option": "Braavos"
+  },
+  {
+    "id": 38,
+    "question": "Who is the Lord Commander of the Kingsguard during Joffrey Baratheon's reign?",
+    "options": ["Ser Barristan Selmy", "Ser Jaime Lannister", "Ser Loras Tyrell", "Ser Gregor Clegane"],
+    "correct_option": "Ser Jaime Lannister"
+  },
+  {
+    "id": 39,
+    "question": "What is the name of the castle of House Tarly?",
+    "options": ["Horn Hill", "Highgarden", "Harrenhal", "Riverrun"],
+    "correct_option": "Horn Hill"
+  },
+  {
+    "id": 40,
+    "question": "Who is the leader of the Brotherhood Without Banners?",
+    "options": ["Thoros of Myr", "Beric Dondarrion", "Gendry", "Anguy"],
+    "correct_option": "Beric Dondarrion"
+  }
+]

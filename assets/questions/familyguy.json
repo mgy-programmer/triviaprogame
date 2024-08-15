@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "question": "What is the name of the Griffin family's pet dog?",
+    "options": [
+      "Brian",
+      "Stewie",
+      "Peter",
+      "Chris"
+    ],
+    "correct_option": "Brian"
+  },
+  {
+    "id": 2,
+    "question": "What is the name of Peter Griffin's wife?",
+    "options": [
+      "Lois",
+      "Meg",
+      "Bonnie",
+      "Diane"
+    ],
+    "correct_option": "Lois"
+  },
+  {
+    "id": 3,
+    "question": "What is the name of the Griffins' eldest son?",
+    "options": [
+      "Chris",
+      "Stewie",
+      "Brian",
+      "Peter"
+    ],
+    "correct_option": "Chris"
+  },
+  {
+    "id": 4,
+    "question": "What is the name of the baby in the Griffin family who is highly intelligent and has a British accent?",
+    "options": [
+      "Chris",
+      "Meg",
+      "Stewie",
+      "Brian"
+    ],
+    "correct_option": "Stewie"
+  },
+  {
+    "id": 5,
+    "question": "What is the name of Peter Griffin's best friend who is a paraplegic and uses a wheelchair?",
+    "options": [
+      "Quagmire",
+      "Cleveland",
+      "Mort",
+      "Joe"
+    ],
+    "correct_option": "Joe"
+  },
+  {
+    "id": 6,
+    "question": "What is the name of the local pub where Peter and his friends often hang out?",
+    "options": [
+      "The Drunken Clam",
+      "The Tipsy Tavern",
+      "The Boozy Bar",
+      "The Sloshed Saloon"
+    ],
+    "correct_option": "The Drunken Clam"
+  },
+  {
+    "id": 7,
+    "question": "Who is the Greased-Up Deaf Guy?",
+    "options": [
+      "Peter Griffin's neighbor",
+      "A recurring character on the show",
+      "The Griffins' mailman",
+      "The town mayor"
+    ],
+    "correct_option": "A recurring character on the show"
+  },
+  {
+    "id": 8,
+    "question": "What is the name of Peter Griffin's favorite TV show that features a giant chicken as his nemesis?",
+    "options": [
+      "The Cluckinator",
+      "Fowl Play",
+      "Giant Chicken Showdown",
+      "The Chicken Fight"
+    ],
+    "correct_option": "The Chicken Fight"
+  },
+  {
+    "id": 9,
+    "question": "What is the name of the talking, alcoholic dog in the show?",
+    "options": [
+      "Brian",
+      "Stewie",
+      "Chris",
+      "Peter"
+    ],
+    "correct_option": "Brian"
+  },
+  {
+    "id": 10,
+    "question": "Who is the youngest member of the Griffin family and often engages in diabolical schemes?",
+    "options": [
+      "Stewie",
+      "Meg",
+      "Lois",
+      "Brian"
+    ],
+    "correct_option": "Stewie"
+  },
+  {
+    "id": 11,
+    "question": "Which Griffin family member works at the Quahog Piano Company?",
+    "options": [
+      "Peter",
+      "Lois",
+      "Chris",
+      "Meg"
+    ],
+    "correct_option": "Lois"
+  },
+  {
+    "id": 12,
+    "question": "Identify the Griffin family's neighbor, known for his social awkwardness and employment at the Happy-Go-Lucky Toy Factory.",
+    "options": [
+      "Cleveland",
+      "Joe",
+      "Quagmire",
+      "Herbert"
+    ],
+    "correct_option": "Cleveland"
+  },
+  {
+    "id": 13,
+    "question": "What is the name of Stewie's teddy bear, often involved in his schemes?",
+    "options": [
+      "Rupert",
+      "Snuggles",
+      "Teddy",
+      "Cuddles"
+    ],
+    "correct_option": "Rupert"
+  },
+  {
+    "id": 14,
+    "question": "In Family Guy, which character is known for his distinct laugh and works at the Drunken Clam?",
+    "options": [
+      "Quagmire",
+      "Cleveland",
+      "Joe",
+      "Herbert"
+    ],
+    "correct_option": "Quagmire"
+  },
+  {
+    "id": 15,
+    "question": "Who is the patriarch of the Griffin family and often employed at the Pawtucket Brewery?",
+    "options": [
+      "Peter",
+      "Stewie",
+      "Chris",
+      "Meg"
+    ],
+    "correct_option": "Peter"
+  },
+  {
+    "id": 16,
+    "question": "In Family Guy, who is often seen with a football-shaped head and known for his intelligence?",
+    "options": [
+      "Stewie",
+      "Meg",
+      "Lois",
+      "Brian"
+    ],
+    "correct_option": "Stewie"
+  },
+  {
+    "id": 17,
+    "question": "Who is the mayor of Quahog in Family Guy?",
+    "options": [
+      "Mayor West",
+      "Mayor Quimby",
+      "Mayor McCheese",
+      "Mayor Adam West"
+    ],
+    "correct_option": "Mayor West"
+  },
+  {
+    "id": 18,
+    "question": "Which character is known for his obsession with all things pop culture, including his catchphrase 'Giggity'?",
+    "options": [
+      "Peter",
+      "Stewie",
+      "Quagmire",
+      "Joe"
+    ],
+    "correct_option": "Quagmire"
+  },
+  {
+    "id": 19,
+    "question": "What is the name of Stewie's half-brother, who is the child of Peter and his ex-girlfriend?",
+    "options": [
+      "Bertram",
+      "Mort",
+      "Neil",
+      "Kevin"
+    ],
+    "correct_option": "Bertram"
+  },
+  {
+    "id": 20,
+    "question": "Which character runs a pharmacy in Quahog and often interacts with the Griffin family?",
+    "options": [
+      "Mort",
+      "Dr. Hartman",
+      "Herbert",
+      "Cleveland"
+    ],
+    "correct_option": "Mort"
+  },
+  {
+    "id": 21,
+    "question": "In Family Guy, who is the news anchor and often appears in cutaway gags?",
+    "options": [
+      "Tom Tucker",
+      "Diane Simmons",
+      "Tricia Takanawa",
+      "Ollie Williams"
+    ],
+    "correct_option": "Tom Tucker"
+  },
+  {
+    "id": 22,
+    "question": "What is the name of Stewie's time-traveling future self who tries to prevent his own demise?",
+    "options": [
+      "Stu",
+      "Bertram",
+      "Vinny",
+      "Bitch Stewie"
+    ],
+    "correct_option": "Bitch Stewie"
+  },
+  {
+    "id": 23,
+    "question": "Who is the owner of the Drunken Clam, the local bar frequented by Peter and his friends?",
+    "options": [
+      "Jerome",
+      "Cleveland",
+      "Horace",
+      "Mort"
+    ],
+    "correct_option": "Horace"
+  },
+  {
+    "id": 24,
+    "question": "Which character is Peter's boss at the Pawtucket Brewery?",
+    "options": [
+      "Angela",
+      "Mr. Weed",
+      "Opie",
+      "Seamus"
+    ],
+    "correct_option": "Angela"
+  },
+  {
+    "id": 25,
+    "question": "What is the name of Stewie's nemesis, the child of Peter's co-worker?",
+    "options": [
+      "Neil",
+      "Kevin",
+      "Jake",
+      "Bertram"
+    ],
+    "correct_option": "Kevin"
+  },
+  {
+    "id": 26,
+    "question": "In Family Guy, who is the elderly neighbor known for his questionable interactions with Chris?",
+    "options": [
+      "Cleveland",
+      "Herbert",
+      "Quagmire",
+      "Mort"
+    ],
+    "correct_option": "Herbert"
+  },
+  {
+    "id": 27,
+    "question": "What is the name of Lois's wealthy and eccentric father?",
+    "options": [
+      "Carter Pewterschmidt",
+      "Mort Goldman",
+      "Tom Tucker",
+      "Mayor West"
+    ],
+    "correct_option": "Carter Pewterschmidt"
+  },
+  {
+    "id": 28,
+    "question": "Which character is Peter's handicapped friend who occasionally uses a wheelchair?",
+    "options": [
+      "Joe",
+      "Quagmire",
+      "Cleveland",
+      "Herbert"
+    ],
+    "correct_option": "Joe"
+  },
+  {
+    "id": 29,
+    "question": "What is the name of the local convenience store frequently visited by the Griffin family?",
+    "options": [
+      "Quik-E-Mart",
+      "Stewie's Stop",
+      "Kwik-E-Mart",
+      "Stewie's Mart"
+    ],
+    "correct_option": "Quik-E-Mart"
+  },
+  {
+    "id": 30,
+    "question": "Identify the Griffin family's eccentric neighbor who often provides bizarre advice.",
+    "options": [
+      "Cleveland",
+      "Joe",
+      "Quagmire",
+      "Herbert"
+    ],
+    "correct_option": "Herbert"
+  },
+  {
+    "id": 31,
+    "question": "What is the name of the Griffin family's evil, anthropomorphic monkey who lives in Chris's closet?",
+    "options": [
+      "Mr. Bananas",
+      "Evil Monkey",
+      "Spanky",
+      "Curious George"
+    ],
+    "correct_option": "Evil Monkey"
+  },
+  {
+    "id": 32,
+    "question": "In Family Guy, which character is Peter's biological father?",
+    "options": [
+      "Francis",
+      "Mickey McFinnigan",
+      "Thelma Griffin",
+      "Carter Pewterschmidt"
+    ],
+    "correct_option": "Francis"
+  },
+  {
+    "id": 33,
+    "question": "Who is the Griffin family member known for her unpopular and frequently mocked opinions?",
+    "options": [
+      "Lois",
+      "Meg",
+      "Stewie",
+      "Tricia Takanawa"
+    ],
+    "correct_option": "Meg"
+  },
+  {
+    "id": 34,
+    "question": "Identify the anthropomorphic dog who is Peter's best friend and often seen with a martini.",
+    "options": [
+      "Spike",
+      "Rover",
+      "Brian",
+      "Max"
+    ],
+    "correct_option": "Brian"
+  },
+  {
+    "id": 35,
+    "question": "What is the name of the elderly man who is a regular at the Drunken Clam and often yells 'You bastards!'?",
+    "options": [
+      "Mickey McFinnigan",
+      "Herbert",
+      "Angry Old Man",
+      "Opie"
+    ],
+    "correct_option": "Angry Old Man"
+  },
+  {
+    "id": 36,
+    "question": "In Family Guy, which character is known for his various jobs and bizarre accidents, such as the exploding cat launcher?",
+    "options": [
+      "Mort",
+      "Cleveland",
+      "Quagmire",
+      "Joe"
+    ],
+    "correct_option": "Quagmire"
+  },
+  {
+    "id": 37,
+    "question": "What is the name of Peter Griffin's favorite bar in Quahog?",
+    "options": [
+      "The Drunken Clam",
+      "The Tipsy Turtle",
+      "The Giggity Goblet",
+      "The Quahog Quencher"
+    ],
+    "correct_option": "The Drunken Clam"
+  },
+  {
+    "id": 38,
+    "question": "Which character is known for his obsession with birds and owns a parrot named Polynesia?",
+    "options": [
+      "Peter",
+      "Joe",
+      "Quagmire",
+      "Cleveland"
+    ],
+    "correct_option": "Joe"
+  },
+  {
+    "id": 39,
+    "question": "In Family Guy, who is the Griffins' eccentric neighbor that has a crush on Chris?",
+    "options": [
+      "Cleveland",
+      "Herbert",
+      "Quagmire",
+      "Mort"
+    ],
+    "correct_option": "Herbert"
+  },
+  {
+    "id": 40,
+    "question": "What is the name of the Griffin family's anthropomorphic pet who is a sophisticated and well-spoken dog?",
+    "options": [
+      "Rover",
+      "Brian",
+      "Spot",
+      "Max"
+    ],
+    "correct_option": "Brian"
+  },
+  {
+    "id": 41,
+    "question": "Who is Peter Griffin's boss at the Happy-Go-Lucky Toy Factory?",
+    "options": [
+      "Mr. Weed",
+      "Angela",
+      "Opie",
+      "Seamus"
+    ],
+    "correct_option": "Mr. Weed"
+  },
+  {
+    "id": 42,
+    "question": "Identify the Griffin family member who frequently gets bullied at school and faces various teenage struggles.",
+    "options": [
+      "Chris",
+      "Meg",
+      "Stewie",
+      "Brian"
+    ],
+    "correct_option": "Meg"
+  },
+  {
+    "id": 43,
+    "question": "In Family Guy, which character is the mayor of Quahog and is known for his eccentric behavior?",
+    "options": [
+      "Mayor Quimby",
+      "Mayor McCheese",
+      "Mayor Adam West",
+      "Mayor Bee"
+    ],
+    "correct_option": "Mayor Adam West"
+  },
+  {
+    "id": 44,
+    "question": "What is the name of Stewie's evil half-brother, who is the primary antagonist in some episodes?",
+    "options": [
+      "Bertram",
+      "Kevin",
+      "Jake",
+      "Stewbert"
+    ],
+    "correct_option": "Bertram"
+  },
+  {
+    "id": 45,
+    "question": "Which character in Family Guy is a police officer and uses a wheelchair due to a paralyzing accident?",
+    "options": [
+      "Cleveland",
+      "Quagmire",
+      "Joe",
+      "Herbert"
+    ],
+    "correct_option": "Joe"
+  },
+  {
+    "id": 46,
+    "question": "Who is the Griffin family member known for his love of playing the tuba and is often seen with a hat covering his eyes?",
+    "options": [
+      "Chris",
+      "Meg",
+      "Stewie",
+      "Brian"
+    ],
+    "correct_option": "Chris"
+  },
+  {
+    "id": 47,
+    "question": "In Family Guy, which character owns a store called 'Goldman's Pharmacy'?",
+    "options": [
+      "Mort",
+      "Dr. Hartman",
+      "Herbert",
+      "Cleveland"
+    ],
+    "correct_option": "Mort"
+  },
+  {
+    "id": 48,
+    "question": "What is the name of the talking and anthropomorphic baby in the Griffin family?",
+    "options": [
+      "Stewie",
+      "Brian",
+      "Chris",
+      "Meg"
+    ],
+    "correct_option": "Stewie"
+  },
+  {
+    "id": 49,
+    "question": "Which character is Peter Griffin's best friend and is known for his womanizing ways?",
+    "options": [
+      "Cleveland",
+      "Quagmire",
+      "Joe",
+      "Herbert"
+    ],
+    "correct_option": "Quagmire"
+  },
+  {
+    "id": 50,
+    "question": "Identify the Griffin family member who is an accomplished pianist and often plays classical music.",
+    "options": [
+      "Peter",
+      "Lois",
+      "Chris",
+      "Meg"
+    ],
+    "correct_option": "Lois"
+  }
+]

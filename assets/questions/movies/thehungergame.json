@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "What is the name of the protagonist in 'The Hunger Games' series?",
+    "options": ["Katniss Everdeen", "Peeta Mellark", "Gale Hawthorne", "Primrose Everdeen"],
+    "correct_option": "Katniss Everdeen"
+  },
+  {
+    "id": 2,
+    "question": "In which district does Katniss Everdeen reside at the beginning of 'The Hunger Games'?",
+    "options": ["District 12", "District 8", "District 4", "District 13"],
+    "correct_option": "District 12"
+  },
+  {
+    "id": 3,
+    "question": "What is the name of the deadly event where tributes fight to the death in 'The Hunger Games'?",
+    "options": ["The Reaping", "The Feast", "The Duel", "The Arena"],
+    "correct_option": "The Arena"
+  },
+  {
+    "id": 4,
+    "question": "Who is the President of Panem in 'The Hunger Games' series?",
+    "options": ["President Snow", "President Alma Coin", "President Paylor", "President Coriolanus Snow"],
+    "correct_option": "President Snow"
+  },
+  {
+    "id": 5,
+    "question": "What is the name of the fiery dress designed for Katniss during the Tribute Parade in 'Catching Fire'?",
+    "options": ["Flame Gown", "Fire Dress", "Mockingjay Attire", "Girl on Fire Outfit"],
+    "correct_option": "Girl on Fire Outfit"
+  },
+  {
+    "id": 6,
+    "question": "Which character sacrifices themselves for Katniss in the first Hunger Games?",
+    "options": ["Peeta Mellark", "Gale Hawthorne", "Primrose Everdeen", "Rue"],
+    "correct_option": "Rue"
+  },
+  {
+    "id": 7,
+    "question": "What is the name of the rebellion formed against the Capitol in 'Mockingjay'?",
+    "options": ["The Uprising", "The Resistance", "The Revolution", "The Rebellion"],
+    "correct_option": "The Rebellion"
+  },
+  {
+    "id": 8,
+    "question": "What is the symbol of the rebellion in 'The Hunger Games' series?",
+    "options": ["The Mockingjay", "The Rose", "The Arrow", "The Sun"],
+    "correct_option": "The Mockingjay"
+  },
+  {
+    "id": 9,
+    "question": "Who is the Head Gamemaker in 'The Hunger Games'?",
+    "options": ["Seneca Crane", "Plutarch Heavensbee", "Cinna", "Fulvia Cardew"],
+    "correct_option": "Seneca Crane"
+  },
+  {
+    "id": 10,
+    "question": "What is the deadly event introduced in 'Catching Fire' where past victors must compete again?",
+    "options": ["Quarter Quell", "Tribute Twist", "Victor's Vendetta", "Reaping Redux"],
+    "correct_option": "Quarter Quell"
+  },
+  {
+    "id": 11,
+    "question": "What is the name of the luxury train that transports tributes to the Capitol in 'The Hunger Games'?",
+    "options": ["Capitol Express", "Victor's Voyage", "Luxury Liner", "Hogwarts Express"],
+    "correct_option": "Capitol Express"
+  },
+  {
+    "id": 12,
+    "question": "In 'Mockingjay,' what is the purpose of the mission called the 'Star Squad'?",
+    "options": ["Rescue Peeta", "Capture President Snow", "Retrieve Mockingjay Propo", "Assassinate President Coin"],
+    "correct_option": "Assassinate President Coin"
+  },
+  {
+    "id": 13,
+    "question": "Who is the mentor and stylist for Katniss Everdeen in 'The Hunger Games'?",
+    "options": ["Cinna", "Effie Trinket", "Haymitch Abernathy", "Portia"],
+    "correct_option": "Cinna"
+  },
+  {
+    "id": 14,
+    "question": "What is the name of the gamekeeper who assists Katniss in the Arena during the 75th Hunger Games?",
+    "options": ["Beetee Latier", "Plutarch Heavensbee", "Wiress", "Mags"],
+    "correct_option": "Beetee Latier"
+  },
+  {
+    "id": 15,
+    "question": "What is the Capitol's punishment for District 12 after Katniss and Peeta's victory in the 74th Hunger Games?",
+    "options": ["Increased Rations", "Annexation", "Mining Ban", "Quarter Quell"],
+    "correct_option": "Quarter Quell"
+  },
+  {
+    "id": 16,
+    "question": "What is the name of the game where tributes must stay alive in a constantly changing environment?",
+    "options": ["The Maze", "The Clockwork Arena", "The Jungle Hunt", "The Hunger Games"],
+    "correct_option": "The Clockwork Arena"
+  },
+  {
+    "id": 17,
+    "question": "Who becomes the new President of Panem after the fall of President Snow?",
+    "options": ["Katniss Everdeen", "Alma Coin", "Peeta Mellark", "Gale Hawthorne"],
+    "correct_option": "Alma Coin"
+  },
+  {
+    "id": 18,
+    "question": "What is the name of the district that specializes in luxury goods and is known for its elaborate parties?",
+    "options": ["District 1", "District 4", "District 5", "District 12"],
+    "correct_option": "District 1"
+  },
+  {
+    "id": 19,
+    "question": "In 'Catching Fire,' what is the name of the poisonous fog that poses a threat to the tributes?",
+    "options": ["Tracker Jackers", "Acid Rain", "Blood Rain", "Fog of Death"],
+    "correct_option": "Fog of Death"
+  },
+  {
+    "id": 20,
+    "question": "What is the nickname given to Katniss and Peeta's alliance during the 74th Hunger Games?",
+    "options": ["The Star-Crossed Allies", "The Mockingjay Duo", "The Dynamic Duo", "The Lovebirds"],
+    "correct_option": "The Star-Crossed Allies"
+  },
+  {
+    "id": 21,
+    "question": "What is the name of the rebellion's symbol that becomes synonymous with the fight against the Capitol?",
+    "options": ["The Arrow", "The Rose", "The Mockingjay", "The Rebel Star"],
+    "correct_option": "The Mockingjay"
+  },
+  {
+    "id": 22,
+    "question": "Which tribute from District 11 sacrifices himself in protest after Rue's death in the 74th Hunger Games?",
+    "options": ["Thresh", "Cato", "Marvel", "Glimmer"],
+    "correct_option": "Thresh"
+  },
+  {
+    "id": 23,
+    "question": "What is the name of the deadly gas used by the Capitol in the 75th Hunger Games?",
+    "options": ["Sleeping Gas", "Venom Gas", "Tracker Gas", "Poison Gas"],
+    "correct_option": "Tracker Gas"
+  },
+  {
+    "id": 24,
+    "question": "Who is the stylist for Peeta Mellark during the 74th Hunger Games?",
+    "options": ["Cinna", "Effie Trinket", "Portia", "Flavius"],
+    "correct_option": "Portia"
+  },
+  {
+    "id": 25,
+    "question": "In 'Mockingjay: Part 1,' what is the primary objective of the rebels' mission in the Capitol?",
+    "options": ["Rescue Peeta", "Assassinate President Snow", "Retrieve Prim", "Destroy the Hunger Games Arena"],
+    "correct_option": "Rescue Peeta"
+  },
+  {
+    "id": 26,
+    "question": "What is the name of the deadly muttations encountered by the tributes in the Arena?",
+    "options": ["Wolf Mutts", "Tracker Jackers", "Mutt Cheetahs", "Mutant Bees"],
+    "correct_option": "Wolf Mutts"
+  },
+  {
+    "id": 27,
+    "question": "Which character is known for saying, 'May the odds be ever in your favor'?",
+    "options": ["President Snow", "Effie Trinket", "Haymitch Abernathy", "Caesar Flickerman"],
+    "correct_option": "Effie Trinket"
+  },
+  {
+    "id": 28,
+    "question": "What is the name of the addictive substance that Gale Hawthorne and others illegally hunt in District 12?",
+    "options": ["Moonshine", "Opium", "White Rain", "Mockingjay Poison"],
+    "correct_option": "White Rain"
+  },
+  {
+    "id": 29,
+    "question": "Who plays the character Finnick Odair, a former tribute from District 4, in 'Catching Fire'?",
+    "options": ["Sam Claflin", "Liam Hemsworth", "Josh Hutcherson", "Alexander Ludwig"],
+    "correct_option": "Sam Claflin"
+  },
+  {
+    "id": 30,
+    "question": "In 'Mockingjay: Part 2,' what is the name of the deadly obstacle course set by the Capitol in the sewers?",
+    "options": ["The Maze of Despair", "The Labyrinth of Doom", "The Tunnel Trials", "The Pod Maze"],
+    "correct_option": "The Pod Maze"
+  },
+  {
+    "id": 31,
+    "question": "What is the name of the gamekeeper who helps Katniss and Peeta during the 74th Hunger Games?",
+    "options": ["Cinna", "Plutarch Heavensbee", "Haymitch Abernathy", "Seneca Crane"],
+    "correct_option": "Haymitch Abernathy"
+  },
+  {
+    "id": 32,
+    "question": "What is the nickname given to the genetically modified animals used by the Capitol in the Arena?",
+    "options": ["Mutations", "Muttations", "Capitol Beasts", "Genetic Hybrids"],
+    "correct_option": "Muttations"
+  },
+  {
+    "id": 33,
+    "question": "What is the name of the event where tributes are interviewed by Caesar Flickerman before the Hunger Games begin?",
+    "options": ["The Reaping Show", "The Tribute Talk", "The Pre-Games Interview", "The Capitol Chat"],
+    "correct_option": "The Pre-Games Interview"
+  },
+  {
+    "id": 34,
+    "question": "Who is the Head Gamemaker responsible for creating the Arena in 'Catching Fire'?",
+    "options": ["Seneca Crane", "Plutarch Heavensbee", "Caesar Flickerman", "Octavia"],
+    "correct_option": "Plutarch Heavensbee"
+  },
+  {
+    "id": 35,
+    "question": "In 'Mockingjay: Part 1,' what is the name of the television program hosted by Caesar Flickerman?",
+    "options": ["The Capitol Show", "Flickerman's Fables", "The Caesar Chronicles", "Capitol TV"],
+    "correct_option": "Capitol TV"
+  },
+  {
+    "id": 36,
+    "question": "What is the name of the mysterious district that plays a significant role in the rebellion?",
+    "options": ["District 13", "District 11", "District 8", "District X"],
+    "correct_option": "District 13"
+  },
+  {
+    "id": 37,
+    "question": "Which character is known for saying, 'Remember, girl on fire, I'm still betting on you'?",
+    "options": ["Gale Hawthorne", "Peeta Mellark", "Cinna", "Haymitch Abernathy"],
+    "correct_option": "Cinna"
+  },
+  {
+    "id": 38,
+    "question": "What is the primary industry of District 11, where Rue and Thresh originate?",
+    "options": ["Fishing", "Mining", "Agriculture", "Manufacturing"],
+    "correct_option": "Agriculture"
+  },
+  {
+    "id": 39,
+    "question": "Who is the victor of the 65th Hunger Games and becomes a mentor for Katniss and Peeta?",
+    "options": ["Haymitch Abernathy", "Mags", "Johanna Mason", "Finnick Odair"],
+    "correct_option": "Haymitch Abernathy"
+  },
+  {
+    "id": 40,
+    "question": "What is the name of the poisonous berries that Katniss and Peeta use to defy the Capitol in the 74th Hunger Games?",
+    "options": ["Nightlock", "Shadowberries", "Venomberries", "Capitolbane"],
+    "correct_option": "Nightlock"
+  },
+  {
+    "id": 41,
+    "question": "What is the significance of the Mockingjay pin that Katniss wears throughout the series?",
+    "options": ["Gift from Peeta", "Family Heirloom", "Rebellion Symbol", "Good Luck Charm"],
+    "correct_option": "Rebellion Symbol"
+  },
+  {
+    "id": 42,
+    "question": "In 'Catching Fire,' what is the special rule announced for the 75th Hunger Games, known as the Quarter Quell?",
+    "options": ["Tribute Alliances Forbidden", "No Weapons Allowed", "Double the Tributes", "Night Games Only"],
+    "correct_option": "Double the Tributes"
+  },
+  {
+    "id": 43,
+    "question": "Who is Katniss's primary stylist for the Victory Tour and the 75th Hunger Games?",
+    "options": ["Cinna", "Portia", "Effie Trinket", "Flavius"],
+    "correct_option": "Cinna"
+  },
+  {
+    "id": 44,
+    "question": "What is the name of the training center where tributes prepare for the Hunger Games?",
+    "options": ["Capitol Center", "Victor's Village", "Cornucopia Complex", "Training Grounds"],
+    "correct_option": "Training Grounds"
+  },
+  {
+    "id": 45,
+    "question": "What is the fate of Cinna, Katniss's stylist, in 'Catching Fire'?",
+    "options": ["Victor of the Games", "Captured by the Capitol", "Rebel Leader", "Public Execution"],
+    "correct_option": "Public Execution"
+  },
+  {
+    "id": 46,
+    "question": "What is the name of the weapon specialist who trains Katniss and Peeta for the Quarter Quell?",
+    "options": ["Beetee Latier", "Johanna Mason", "Enobaria", "Brutus"],
+    "correct_option": "Johanna Mason"
+  },
+  {
+    "id": 47,
+    "question": "What is the title of the propaganda film created to inspire rebellion in 'Mockingjay: Part 1'?",
+    "options": ["The Mockingjay Chronicles", "District Heroes", "The Rebel Diaries", "Mockingjay Propo"],
+    "correct_option": "Mockingjay Propo"
+  },
+  {
+    "id": 48,
+    "question": "Who plays the character President Alma Coin, the leader of the rebellion, in 'Mockingjay'?",
+    "options": ["Julianne Moore", "Cate Blanchett", "Tilda Swinton", "Meryl Streep"],
+    "correct_option": "Julianne Moore"
+  },
+  {
+    "id": 49,
+    "question": "What is the name of the technology used by the Capitol to manipulate the appearance of the Arena in the Hunger Games?",
+    "options": ["HoloVision", "Reality Distorter", "Tracker Jackers", "Holographic Terrain"],
+    "correct_option": "Holographic Terrain"
+  },
+  {
+    "id": 50,
+    "question": "What does the term \"The Hanging Tree\" refer to in 'Mockingjay: Part 1'?",
+    "options": ["A secret meeting place", "A lethal trap", "A famous landmark", "A rebellion song"],
+    "correct_option": "A rebellion song"
+  }
+]

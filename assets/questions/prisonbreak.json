@@ -1,0 +1,409 @@
+[
+  {
+    "id": 1,
+    "question": "What is the name of the main character in Prison Break?",
+    "options": [
+      "Michael Scofield",
+      "Lincoln Burrows",
+      "Fernando Sucre",
+      "Theodore Bagwell"
+    ],
+    "correct_option": "Michael Scofield"
+  },
+  {
+    "id": 2,
+    "question": "Why was Lincoln Burrows sentenced to death?",
+    "options": [
+      "Murder",
+      "Kidnapping",
+      "Armed Robbery",
+      "Terrorism"
+    ],
+    "correct_option": "Murder"
+  },
+  {
+    "id": 3,
+    "question": "What is the name of the prison where most of the first season of Prison Break takes place?",
+    "options": [
+      "Fox River State Penitentiary",
+      "Sona Federal Penitentiary",
+      "Ogygia Prison",
+      "ADX Florence"
+    ],
+    "correct_option": "Fox River State Penitentiary"
+  },
+  {
+    "id": 4,
+    "question": "Who is Michael Scofield's brother that he tries to exonerate?",
+    "options": [
+      "Lincoln Burrows",
+      "Fernando Sucre",
+      "John Abruzzi",
+      "Charles Westmoreland"
+    ],
+    "correct_option": "Lincoln Burrows"
+  },
+  {
+    "id": 5,
+    "question": "What tattoo does Michael Scofield have on his body to help in his escape plan?",
+    "options": [
+      "Blueprint of Fox River",
+      "Map of Panama",
+      "Code for a Swiss bank account",
+      "Prison Break logo"
+    ],
+    "correct_option": "Blueprint of Fox River"
+  },
+  {
+    "id": 6,
+    "question": "What is the name of the organized crime leader who is also an inmate in Fox River?",
+    "options": [
+      "John Abruzzi",
+      "Theodore Bagwell",
+      "Charles Westmoreland",
+      "Benjamin Miles 'C-Note' Franklin"
+    ],
+    "correct_option": "John Abruzzi"
+  },
+  {
+    "id": 7,
+    "question": "Which character is an expert in electronics and helps with the escape plan?",
+    "options": [
+      "Fernando Sucre",
+      "Theodore Bagwell",
+      "Brad Bellick",
+      "Charles Westmoreland"
+    ],
+    "correct_option": "Fernando Sucre"
+  },
+  {
+    "id": 8,
+    "question": "What is the name of the prison guard who becomes sympathetic to Michael's cause?",
+    "options": [
+      "Henry Pope",
+      "Brad Bellick",
+      "Captain Bellick",
+      "Captain Bradwell"
+    ],
+    "correct_option": "Henry Pope"
+  },
+  {
+    "id": 9,
+    "question": "What is the nickname of the character Theodore Bagwell?",
+    "options": [
+      "T-Bag",
+      "C-Note",
+      "Scofield",
+      "Sucre"
+    ],
+    "correct_option": "T-Bag"
+  },
+  {
+    "id": 10,
+    "question": "Who is the Fox River inmate known for his elaborate escape attempts?",
+    "options": [
+      "Charles Westmoreland",
+      "Benjamin Miles 'C-Note' Franklin",
+      "L.J. Burrows",
+      "David 'Tweener' Apolskis"
+    ],
+    "correct_option": "Charles Westmoreland"
+  },
+  {
+    "id": 11,
+    "question": "What is the name of the Company that plays a major role in the series?",
+    "options": [
+      "The Company",
+      "The Organization",
+      "The Syndicate",
+      "The Conspiracy"
+    ],
+    "correct_option": "The Company"
+  },
+  {
+    "id": 12,
+    "question": "Who is the mysterious figure that helps Michael from the outside and communicates through origami cranes?",
+    "options": [
+      "Sara Tancredi",
+      "Kellerman",
+      "Alexander Mahone",
+      "James Whistler"
+    ],
+    "correct_option": "Sara Tancredi"
+  },
+  {
+    "id": 13,
+    "question": "What is the name of the agent tasked with bringing the Fox River escapees back to prison?",
+    "options": [
+      "Alexander Mahone",
+      "Paul Kellerman",
+      "Bill Kim",
+      "James Whistler"
+    ],
+    "correct_option": "Alexander Mahone"
+  },
+  {
+    "id": 14,
+    "question": "What is the name of the prison where Michael and Lincoln are sent in the second season?",
+    "options": [
+      "Sona Federal Penitentiary",
+      "Ogygia Prison",
+      "ADX Florence",
+      "Panama Federal Prison"
+    ],
+    "correct_option": "Sona Federal Penitentiary"
+  },
+  {
+    "id": 15,
+    "question": "What is the name of Michael's cellmate in Sona who becomes a key ally?",
+    "options": [
+      "Sucre",
+      "T-Bag",
+      "Whistler",
+      "Whistler"
+    ],
+    "correct_option": "Whistler"
+  },
+  {
+    "id": 16,
+    "question": "What is the name of the Company operative who initially poses as an ally to Michael and Lincoln?",
+    "options": [
+      "Paul Kellerman",
+      "Sara Tancredi",
+      "Alexander Mahone",
+      "The General"
+    ],
+    "correct_option": "Paul Kellerman"
+  },
+  {
+    "id": 17,
+    "question": "What is the name of the character introduced in Season 3, who has a mysterious background and a key card?",
+    "options": [
+      "James Whistler",
+      "Roland Glenn",
+      "The General",
+      "Sofia Lugo"
+    ],
+    "correct_option": "James Whistler"
+  },
+  {
+    "id": 18,
+    "question": "What does Michael need to break James Whistler out of Sona?",
+    "options": [
+      "Scylla",
+      "Book of Secrets",
+      "Black Book",
+      "The Bible"
+    ],
+    "correct_option": "Scylla"
+  },
+  {
+    "id": 19,
+    "question": "Who is the Homeland Security agent determined to capture Michael and Lincoln?",
+    "options": [
+      "Alexander Mahone",
+      "Paul Kellerman",
+      "William Kim",
+      "The General"
+    ],
+    "correct_option": "Alexander Mahone"
+  },
+  {
+    "id": 20,
+    "question": "What is the name of the character who helps Michael and his team in breaking out of Sona?",
+    "options": [
+      "Lechero",
+      "Tweener",
+      "Bellick",
+      "Whistler"
+    ],
+    "correct_option": "Lechero"
+  },
+  {
+    "id": 21,
+    "question": "What is the significance of the word 'Ogygia' in Prison Break?",
+    "options": [
+      "Name of a prison",
+      "A code word",
+      "Michael's tattoo",
+      "A book"
+    ],
+    "correct_option": "Name of a prison"
+  },
+  {
+    "id": 22,
+    "question": "Who is Lincoln Burrows' son in the series?",
+    "options": [
+      "L.J. Burrows",
+      "A.J. Burrows",
+      "C.J. Burrows",
+      "D.J. Burrows"
+    ],
+    "correct_option": "L.J. Burrows"
+  },
+  {
+    "id": 23,
+    "question": "What is the name of the character who becomes Sara Tancredi's husband?",
+    "options": [
+      "Michael Scofield",
+      "Paul Kellerman",
+      "Lincoln Burrows",
+      "Jacob Anton Ness"
+    ],
+    "correct_option": "Jacob Anton Ness"
+  },
+  {
+    "id": 24,
+    "question": "What is the name of the ship that plays a crucial role in the later seasons of Prison Break?",
+    "options": [
+      "Christina Rose",
+      "The Black Orchid",
+      "The Sea Wolf",
+      "The Barracuda"
+    ],
+    "correct_option": "Christina Rose"
+  },
+  {
+    "id": 25,
+    "question": "What is the name of the organization that possesses the Scylla card?",
+    "options": [
+      "The Company",
+      "The Alliance",
+      "The Syndicate",
+      "The Cartel"
+    ],
+    "correct_option": "The Company"
+  },
+  {
+    "id": 26,
+    "question": "What is the name of the character who sacrifices himself for Michael's plan in the final season?",
+    "options": [
+      "Alexander Mahone",
+      "Fernando Sucre",
+      "Brad Bellick",
+      "Theodore Bagwell"
+    ],
+    "correct_option": "Brad Bellick"
+  },
+  {
+    "id": 27,
+    "question": "What is the ultimate goal of the characters in Prison Break?",
+    "options": [
+      "Exoneration",
+      "Revenge",
+      "Wealth",
+      "Survival"
+    ],
+    "correct_option": "Exoneration"
+  },
+  {
+    "id": 28,
+    "question": "Who is revealed to be the mastermind behind the events in the later seasons?",
+    "options": [
+      "The General",
+      "Sara Tancredi",
+      "Lincoln Burrows",
+      "Michael Scofield"
+    ],
+    "correct_option": "The General"
+  },
+  {
+    "id": 29,
+    "question": "What is the name of the character who is known for his extraordinary memory and mathematical abilities?",
+    "options": [
+      "Roland Glenn",
+      "David Apolskis",
+      "Charles Westmoreland",
+      "Benjamin Miles 'C-Note' Franklin"
+    ],
+    "correct_option": "Roland Glenn"
+  },
+  {
+    "id": 30,
+    "question": "What is the name of the Company agent who poses as Michael's ally and later betrays him?",
+    "options": [
+      "Paul Kellerman",
+      "Alexander Mahone",
+      "Jacob Anton Ness",
+      "Van Gogh"
+    ],
+    "correct_option": "Van Gogh"
+  },
+  {
+    "id": 31,
+    "question": "What is the name of the organization that Sara Tancredi works for in the final season?",
+    "options": [
+      "MI6",
+      "CIA",
+      "The Company",
+      "Interpol"
+    ],
+    "correct_option": "CIA"
+  },
+  {
+    "id": 32,
+    "question": "Who is the character known for his skills in breaking and entering?",
+    "options": [
+      "Fernando Sucre",
+      "Theodore Bagwell",
+      "David 'Tweener' Apolskis",
+      "Roland Glenn"
+    ],
+    "correct_option": "David 'Tweener' Apolskis"
+  },
+  {
+    "id": 33,
+    "question": "What is the name of the character who is a former soldier and assists Michael in the later seasons?",
+    "options": [
+      "Sara Tancredi",
+      "Whip",
+      "Ja",
+      "Sid"
+    ],
+    "correct_option": "Whip"
+  },
+  {
+    "id": 34,
+    "question": "What is the code name used for Michael and his team's final plan?",
+    "options": [
+      "Operation Clearwater",
+      "Operation Blue Hawaii",
+      "Operation Blackwater",
+      "Operation Final Break"
+    ],
+    "correct_option": "Operation Final Break"
+  },
+  {
+    "id": 35,
+    "question": "What is the name of the character who is a key player in the events of the final break?",
+    "options": [
+      "Sara Tancredi",
+      "Whip",
+      "Poseidon",
+      "Jacob Anton Ness"
+    ],
+    "correct_option": "Poseidon"
+  },
+  {
+    "id": 36,
+    "question": "What is the name of Michael Scofield's son?",
+    "options": [
+      "Michael Scofield Jr.",
+      "Lincoln Scofield",
+      "David Scofield",
+      "Jacob Scofield"
+    ],
+    "correct_option": "Michael Scofield Jr."
+  },
+  {
+    "id": 37,
+    "question": "Who is the character known for his brilliant engineering skills and creating intricate devices?",
+    "options": [
+      "Fernando Sucre",
+      "T-Bag",
+      "Roland Glenn",
+      "David Apolskis"
+    ],
+    "correct_option": "David Apolskis"
+  }
+]

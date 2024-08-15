@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "What is the name of Ross and Monica's dog when they were kids?",
+    "options": ["Fluffy", "Rex", "Chi-Chi", "Phoebe"],
+    "correct_option": "Chi-Chi"
+  },
+  {
+    "id": 2,
+    "question": "Which character is known for their catchphrase 'How you doin'?'",
+    "options": ["Rachel", "Joey", "Monica", "Chandler"],
+    "correct_option": "Joey"
+  },
+  {
+    "id": 3,
+    "question": "What is the name of Ross's second wife?",
+    "options": ["Emily", "Janice", "Carol", "Susan"],
+    "correct_option": "Emily"
+  },
+  {
+    "id": 4,
+    "question": "What is the name of Joey's stuffed penguin?",
+    "options": ["Gunter", "Hugsy", "Waddles", "Penguin Pete"],
+    "correct_option": "Hugsy"
+  },
+  {
+    "id": 5,
+    "question": "What is the name of Phoebe's twin sister?",
+    "options": ["Ursula", "Lisa", "Estelle", "Mona"],
+    "correct_option": "Ursula"
+  },
+  {
+    "id": 6,
+    "question": "What is the name of Ross's first wife?",
+    "options": ["Emily", "Janice", "Carol", "Susan"],
+    "correct_option": "Carol"
+  },
+  {
+    "id": 7,
+    "question": "What is the name of Monica's chef boyfriend, played by Jon Favreau?",
+    "options": ["Paul", "Pete", "Richard", "Bob"],
+    "correct_option": "Pete"
+  },
+  {
+    "id": 8,
+    "question": "What is the name of the coffee shop where the friends frequently hang out?",
+    "options": ["Central Perk", "The Central Cafe", "Perk Place", "Cafe Central"],
+    "correct_option": "Central Perk"
+  },
+  {
+    "id": 9,
+    "question": "What instrument does Phoebe Buffay often play and sing songs on?",
+    "options": ["Guitar", "Piano", "Flute", "Banjo"],
+    "correct_option": "Guitar"
+  },
+  {
+    "id": 10,
+    "question": "What is the name of Chandler's on-again, off-again girlfriend who also used to be Ross's crush?",
+    "options": ["Kathy", "Janice", "Emily", "Rachel"],
+    "correct_option": "Janice"
+  },
+  {
+    "id": 11,
+    "question": "What was the name of Ross and Monica's childhood dog, whose death traumatized Ross?",
+    "options": ["Chi-Chi", "Fluffy", "Toto", "Rover"],
+    "correct_option": "Chi-Chi"
+  },
+  {
+    "id": 12,
+    "question": "What is the name of the soap opera Joey stars in?",
+    "options": ["Days of Our Lives", "General Hospital", "The Bold and the Beautiful", "All My Children"],
+    "correct_option": "Days of Our Lives"
+  },
+  {
+    "id": 13,
+    "question": "What is the name of Ross and Monica's mother?",
+    "options": ["Judy", "Barbara", "Carol", "Susan"],
+    "correct_option": "Judy"
+  },
+  {
+    "id": 14,
+    "question": "Which character is known for their obsessive-compulsive cleaning and organizing habits?",
+    "options": ["Rachel", "Monica", "Phoebe", "Chandler"],
+    "correct_option": "Monica"
+  },
+  {
+    "id": 15,
+    "question": "What is the name of Rachel's sister, who dates Ross?",
+    "options": ["Emily", "Jill", "Amy", "Janice"],
+    "correct_option": "Jill"
+  },
+  {
+    "id": 16,
+    "question": "What is the name of Joey's agent?",
+    "options": ["Emily", "Janice", "Estelle", "Phyllis"],
+    "correct_option": "Estelle"
+  },
+  {
+    "id": 17,
+    "question": "What is the profession of Chandler's on-and-off girlfriend Janice?",
+    "options": ["Lawyer", "Real Estate Agent", "Nurse", "Dentist"],
+    "correct_option": "Real Estate Agent"
+  },
+  {
+    "id": 18,
+    "question": "Which character owns a pet monkey named Marcel?",
+    "options": ["Phoebe", "Rachel", "Joey", "Ross"],
+    "correct_option": "Ross"
+  },
+  {
+    "id": 19,
+    "question": "Which character accidentally reveals that Ross is the father of Rachel's baby at Monica's wedding?",
+    "options": ["Joey", "Phoebe", "Chandler", "Monica"],
+    "correct_option": "Phoebe"
+  },
+  {
+    "id": 20,
+    "question": "Who was Monica's first roommate before Rachel in Friends?",
+    "options": ["Phoebe", "Chandler", "Janice", "Ross"],
+    "correct_option": "Phoebe"
+  },
+  {
+    "id": 21,
+    "question": "What does Ross famously shout when trying to help move a couch?",
+    "options": ["Pivot!", "Lift!", "Slide!", "Rotate!"],
+    "correct_option": "Pivot!"
+  },
+  {
+    "id": 22,
+    "question": "Which member of the Friends group is a paleontologist?",
+    "options": ["Rachel", "Joey", "Monica", "Ross"],
+    "correct_option": "Ross"
+  },
+  {
+    "id": 23,
+    "question": "What song does Ross play on the keyboard to impress his neighbors?",
+    "options": ["The Entertainer", "Axel F", "Stayin' Alive", "Kokomo"],
+    "correct_option": "Axel F"
+  },
+  {
+    "id": 24,
+    "question": "Which character famously says 'We were on a break!'?",
+    "options": ["Joey", "Ross", "Rachel", "Monica"],
+    "correct_option": "Ross"
+  },
+  {
+    "id": 25,
+    "question": "What is the name of Ross's first wife?",
+    "options": ["Emily", "Janice", "Carol", "Susan"],
+    "correct_option": "Carol"
+  },
+  {
+    "id": 26,
+    "question": "What is the name of Joey's soap opera character in Days of Our Lives?",
+    "options": ["Dr. Drake Ramoray", "Dr. Joey Tribbiani", "Joey Ramoray", "Dr. Joseph Chandler"],
+    "correct_option": "Dr. Drake Ramoray"
+  },
+  {
+    "id": 27,
+    "question": "Which holiday is Ross's 'Holiday Armadillo' costume attempting to celebrate?",
+    "options": ["Christmas", "Hanukkah", "Thanksgiving", "New Year's Eve"],
+    "correct_option": "Hanukkah"
+  },
+  {
+    "id": 28,
+    "question": "What is the title of Joey's favorite bedtime story for children?",
+    "options": ["The Velveteen Rabbit", "The Little Engine That Could", "The Ugly Duckling", "The Lion King"],
+    "correct_option": "The Velveteen Rabbit"
+  },
+  {
+    "id": 29,
+    "question": "Which famous actor played the character of Richard, Monica's older boyfriend?",
+    "options": ["George Clooney", "Tom Hanks", "Bruce Willis", "Tom Selleck"],
+    "correct_option": "Tom Selleck"
+  },
+  {
+    "id": 30,
+    "question": "What is the name of Ross and Monica's dog when they were kids?",
+    "options": ["Fluffy", "Rex", "Chi-Chi", "Phoebe"],
+    "correct_option": "Chi-Chi"
+  },
+  {
+    "id": 31,
+    "question": "What is the profession of Ross and Monica's mother, Judy Geller?",
+    "options": ["Chef", "Lawyer", "Doctor", "Librarian"],
+    "correct_option": "Chef"
+  },
+  {
+    "id": 32,
+    "question": "Which character mistakenly throws a woman's wooden leg into a fire during Thanksgiving?",
+    "options": ["Chandler", "Joey", "Ross", "Monica"],
+    "correct_option": "Chandler"
+  },
+  {
+    "id": 33,
+    "question": "What is the name of Joey's stuffed penguin?",
+    "options": ["Gunter", "Hugsy", "Waddles", "Penguin Pete"],
+    "correct_option": "Hugsy"
+  },
+  {
+    "id": 34,
+    "question": "What is the name of Rachel's fashion-forward sister?",
+    "options": ["Jill", "Amy", "Emily", "Janine"],
+    "correct_option": "Jill"
+  },
+  {
+    "id": 35,
+    "question": "What is the name of Chandler's annoying ex-girlfriend with a distinctive laugh?",
+    "options": ["Janet", "Jill", "Jessica", "Janice"],
+    "correct_option": "Janice"
+  },
+  {
+    "id": 36,
+    "question": "Who gets stuck in an entertainment unit while helping move it?",
+    "options": ["Ross", "Chandler", "Joey", "Monica"],
+    "correct_option": "Joey"
+  },
+  {
+    "id": 37,
+    "question": "What is the name of the coffee shop where the friends frequently hang out?",
+    "options": ["Central Perk", "The Central Cafe", "Perk Place", "Cafe Central"],
+    "correct_option": "Central Perk"
+  },
+  {
+    "id": 38,
+    "question": "What is the title of the self-help book that the character, Chicken Jr., writes in Friends?",
+    "options": ["Be Your Own Windkeeper", "Love Yourself First", "The Power of Positive Thinking", "Inner Strength"],
+    "correct_option": "Be Your Own Windkeeper"
+  },
+  {
+    "id": 39,
+    "question": "What is the name of Phoebe's husband, a Canadian ice dancer?",
+    "options": ["Duncan", "Dmitri", "Dirk", "David"],
+    "correct_option": "Duncan"
+  },
+  {
+    "id": 40,
+    "question": "Who becomes the minister and officiates Phoebe's wedding?",
+    "options": ["Joey", "Ross", "Monica", "Chandler"],
+    "correct_option": "Joey"
+  },
+  {
+    "id": 41,
+    "question": "What was the name of the band Ross was part of in college?",
+    "options": ["The Ex-Files", "The Paleontologists", "Geller's Rock", "Way, No Way"],
+    "correct_option": "Way, No Way"
+  },
+  {
+    "id": 42,
+    "question": "What is the profession of Monica's boyfriend Pete Becker?",
+    "options": ["Dentist", "Chef", "Stockbroker", "Paleontologist"],
+    "correct_option": "Stockbroker"
+  },
+  {
+    "id": 43,
+    "question": "What is the title of the song Phoebe writes for the commercial for a cat litter brand?",
+    "options": ["Smelly Cat", "Kitty Litter Blues", "Cat Nap", "Purr-fect Harmony"],
+    "correct_option": "Smelly Cat"
+  },
+  {
+    "id": 44,
+    "question": "What is the name of Rachel's sister, who dates Ross?",
+    "options": ["Emily", "Jill", "Amy", "Janice"],
+    "correct_option": "Amy"
+  },
+  {
+    "id": 45,
+    "question": "What is the name of Chandler's father who becomes a transgender woman?",
+    "options": ["Charles", "Gene", "Amanda", "Helena"],
+    "correct_option": "Charles"
+  },
+  {
+    "id": 46,
+    "question": "Which character is known for their catchphrase 'How you doin'?'",
+    "options": ["Rachel", "Joey", "Monica", "Chandler"],
+    "correct_option": "Joey"
+  },
+  {
+    "id": 47,
+    "question": "What is the name of the neighbor who gets mad at Monica and Chandler for spying on her?",
+    "options": ["Mrs. Thompson", "Ugly Naked Guy", "Mrs. Tribbiani", "Mrs. Bing"],
+    "correct_option": "Ugly Naked Guy"
+  },
+  {
+    "id": 48,
+    "question": "What is the name of Joey's identical hand twin?",
+    "options": ["Tony", "Sully", "Alfonso", "Carl"],
+    "correct_option": "Sully"
+  },
+  {
+    "id": 49,
+    "question": "Which character writes a letter of recommendation for Rachel, describing her as 'always the last to leave'?",
+    "options": ["Joey", "Chandler", "Monica", "Ross"],
+    "correct_option": "Monica"
+  },
+  {
+    "id": 50,
+    "question": "What is the name of Rachel's daughter?",
+    "options": ["Emma", "Amanda", "Helena", "Rachel Jr."],
+    "correct_option": "Emma"
+  }
+]

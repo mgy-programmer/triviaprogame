@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "Who plays the character Dominic Toretto in the 'Fast and Furious' franchise?",
+    "options": ["Vin Diesel", "Dwayne Johnson", "Paul Walker", "Tyrese Gibson"],
+    "correct_option": "Vin Diesel"
+  },
+  {
+    "id": 2,
+    "question": "In the first 'Fast and Furious' film, what type of racing event does Brian O'Conner infiltrate?",
+    "options": ["Street Racing", "Drag Racing", "Drift Racing", "Formula One"],
+    "correct_option": "Street Racing"
+  },
+  {
+    "id": 3,
+    "question": "What is the name of the law enforcement agency that Brian O'Conner initially works for in the series?",
+    "options": ["FBI", "CIA", "DEA", "LAPD"],
+    "correct_option": "LAPD"
+  },
+  {
+    "id": 4,
+    "question": "Which film in the franchise introduces the character of Luke Hobbs, played by Dwayne Johnson?",
+    "options": ["Fast Five", "Fast & Furious 6", "Furious 7", "The Fate of the Furious"],
+    "correct_option": "Fast Five"
+  },
+  {
+    "id": 5,
+    "question": "What is the title of the third film in the series that shifts the focus to Tokyo and introduces drifting?",
+    "options": ["Fast & Furious", "Fast Five", "The Fast and the Furious: Tokyo Drift", "Fast & Furious 6"],
+    "correct_option": "The Fast and the Furious: Tokyo Drift"
+  },
+  {
+    "id": 6,
+    "question": "What is the name of Dominic Toretto's sister, who becomes a central character in the series?",
+    "options": ["Mia", "Letty", "Elena", "Gisele"],
+    "correct_option": "Mia"
+  },
+  {
+    "id": 7,
+    "question": "Which film marks the final appearance of Paul Walker, who portrayed Brian O'Conner?",
+    "options": ["Fast & Furious 6", "Furious 7", "The Fate of the Furious", "Fast & Furious Presents: Hobbs & Shaw"],
+    "correct_option": "Furious 7"
+  },
+  {
+    "id": 8,
+    "question": "What is the title of the spin-off film that features Dwayne Johnson and Jason Statham?",
+    "options": ["Fast & Furious 6", "Hobbs & Shaw", "Fast Five", "Furious 7"],
+    "correct_option": "Hobbs & Shaw"
+  },
+  {
+    "id": 9,
+    "question": "Which actor plays the character Han Seoul-Oh in multiple films, including 'Tokyo Drift'?",
+    "options": ["Sung Kang", "Donnie Yen", "Tony Jaa", "Jet Li"],
+    "correct_option": "Sung Kang"
+  },
+  {
+    "id": 10,
+    "question": "What is the name of the high-tech device introduced in 'Furious 7' that can locate anyone in the world?",
+    "options": ["God's Eye", "Tech Tracker", "Eye of the Storm", "Cyber Locator"],
+    "correct_option": "God's Eye"
+  },
+  {
+    "id": 11,
+    "question": "In 'Fast & Furious 6,' what type of military vehicle plays a significant role in the action sequence on the highway?",
+    "options": ["Tank", "Helicopter", "Jet Fighter", "Armored Truck"],
+    "correct_option": "Tank"
+  },
+  {
+    "id": 12,
+    "question": "What is the title of the ninth installment in the 'Fast and Furious' series released in 2021?",
+    "options": ["F9: The Fast Saga", "Fast & Furious 9", "Furious Nine", "The Fast and the Furious 9"],
+    "correct_option": "F9: The Fast Saga"
+  },
+  {
+    "id": 13,
+    "question": "Who is the primary antagonist in 'The Fate of the Furious'?",
+    "options": ["Cipher", "Deckard Shaw", "Owen Shaw", "Hobbs"],
+    "correct_option": "Cipher"
+  },
+  {
+    "id": 14,
+    "question": "What is the nickname given to the group of street racers led by Dominic Toretto?",
+    "options": ["Speed Demons", "Torque Team", "Street Kings", "The Family"],
+    "correct_option": "The Family"
+  },
+  {
+    "id": 15,
+    "question": "Which character in the series is known for saying, 'I live my life a quarter-mile at a time'?",
+    "options": ["Brian O'Conner", "Dominic Toretto", "Hobbs", "Letty Ortiz"],
+    "correct_option": "Dominic Toretto"
+  },
+  {
+    "id": 16,
+    "question": "What is the name of the crime lord and drug dealer portrayed by Joaquim de Almeida in 'Fast Five'?",
+    "options": ["Hernan Reyes", "Carlos Reyes", "Rafael Mendes", "Miguel Salazar"],
+    "correct_option": "Hernan Reyes"
+  },
+  {
+    "id": 17,
+    "question": "Which actor plays the character Owen Shaw, the primary antagonist in 'Fast & Furious 6'?",
+    "options": ["Jason Statham", "Kurt Russell", "Luke Evans", "Tony Jaa"],
+    "correct_option": "Luke Evans"
+  },
+  {
+    "id": 18,
+    "question": "What is the name of the racing event in 'The Fast and the Furious: Tokyo Drift'?",
+    "options": ["Drift Wars", "Tokyo Grand Prix", "Drift Showdown", "Drift King"],
+    "correct_option": "Drift King"
+  },
+  {
+    "id": 19,
+    "question": "What iconic car does Brian O'Conner drive in the first 'Fast and Furious' film?",
+    "options": ["Dodge Charger", "Nissan Skyline GT-R", "Toyota Supra", "Mitsubishi Eclipse"],
+    "correct_option": "Mitsubishi Eclipse"
+  },
+  {
+    "id": 20,
+    "question": "Which country serves as the backdrop for the opening sequence of 'Furious 7'?",
+    "options": ["Brazil", "Japan", "Azerbaijan", "Cuba"],
+    "correct_option": "Azerbaijan"
+  },
+  {
+    "id": 21,
+    "question": "In 'Fast Five,' where is the team planning to carry out the heist involving stealing $100 million?",
+    "options": ["Rio de Janeiro", "Barcelona", "Dubai", "Cape Town"],
+    "correct_option": "Rio de Janeiro"
+  },
+  {
+    "id": 22,
+    "question": "Which actor plays the character Roman Pearce, a former convict and member of the Fast Family?",
+    "options": ["Tyrese Gibson", "Ludacris", "Scott Eastwood", "Jason Statham"],
+    "correct_option": "Tyrese Gibson"
+  },
+  {
+    "id": 23,
+    "question": "In which film of the \"Fast and Furious\" series does the character Luke Hobbs, played by Dwayne Johnson, first make his appearance?",
+    "options": ["Fast Five", "Fast & Furious 6", "Furious 7", "The Fate of the Furious"],
+    "correct_option": "Fast Five"
+  },
+  {
+    "id": 24,
+    "question": "Who directed the first 'Fast and Furious' film released in 2001?",
+    "options": ["Justin Lin", "James Wan", "Rob Cohen", "F. Gary Gray"],
+    "correct_option": "Rob Cohen"
+  },
+  {
+    "id": 25,
+    "question": "What is the title of the prequel film that explores the backstory of the character Han Seoul-Oh?",
+    "options": ["The Fast and the Furious: Tokyo Drift", "Fast & Furious: Spy Racers", "Fast & Furious: Origins", "Fast & Furious: Han's Legacy"],
+    "correct_option": "The Fast and the Furious: Tokyo Drift"
+  },
+  {
+    "id": 26,
+    "question": "Which film features a scene where cars parachute out of a cargo plane for a mission?",
+    "options": ["Fast & Furious 6", "Furious 7", "The Fate of the Furious", "F9: The Fast Saga"],
+    "correct_option": "Furious 7"
+  },
+  {
+    "id": 27,
+    "question": "What is the name of the supercar showcased in 'Furious 7' that jumps between skyscrapers in Abu Dhabi?",
+    "options": ["Lamborghini Aventador", "Pagani Huayra", "Lykan HyperSport", "Koenigsegg Jesko"],
+    "correct_option": "Lykan HyperSport"
+  },
+  {
+    "id": 28,
+    "question": "Who is revealed to be the mastermind behind the events in 'Fast & Furious 6'?",
+    "options": ["Owen Shaw", "Dominic Toretto", "Cipher", "Deckard Shaw"],
+    "correct_option": "Owen Shaw"
+  },
+  {
+    "id": 29,
+    "question": "What is the primary focus of the spin-off film 'Fast & Furious Presents: Hobbs & Shaw'?",
+    "options": ["Street Racing", "Heist", "Espionage", "Underwater Exploration"],
+    "correct_option": "Espionage"
+  },
+  {
+    "id": 30,
+    "question": "Which character is known for saying, 'I'm more of a 'leave the scene of the crime' kind of guy'?",
+    "options": ["Tej Parker", "Roman Pearce", "Luke Hobbs", "Deckard Shaw"],
+    "correct_option": "Roman Pearce"
+  },
+  {
+    "id": 31,
+    "question": "What is the nickname given to the character played by Dwayne Johnson in the 'Fast and Furious' series?",
+    "options": ["The Rock", "The Tank", "The Hulk", "The Beast"],
+    "correct_option": "The Rock"
+  },
+  {
+    "id": 32,
+    "question": "Which iconic car brand does Dominic Toretto primarily drive throughout the 'Fast and Furious' series?",
+    "options": ["Ford", "Chevrolet", "Dodge", "Toyota"],
+    "correct_option": "Dodge"
+  },
+  {
+    "id": 33,
+    "question": "In 'F9: The Fast Saga,' what item from Dom's past plays a crucial role in the storyline?",
+    "options": ["A necklace", "A key", "A photograph", "A ring"],
+    "correct_option": "A key"
+  },
+  {
+    "id": 34,
+    "question": "What is the title of the short film that serves as a prelude to 'Furious 7'?",
+    "options": ["Los Bandoleros", "Fast & Furious: Origins", "Hobbs & Shaw: Prelude", "Race Wars"],
+    "correct_option": "Los Bandoleros"
+  },
+  {
+    "id": 35,
+    "question": "Who plays the character Cipher, a high-tech terrorist, in 'The Fate of the Furious'?",
+    "options": ["Charlize Theron", "Helen Mirren", "Kate Winslet", "Angelina Jolie"],
+    "correct_option": "Charlize Theron"
+  },
+  {
+    "id": 36,
+    "question": "What is the title of the song by Wiz Khalifa and Charlie Puth that serves as a tribute to Paul Walker in 'Furious 7'?",
+    "options": ["See You Again", "Fast Lane", "Ride or Die", "Family Forever"],
+    "correct_option": "See You Again"
+  },
+  {
+    "id": 37,
+    "question": "Which film introduces the character of Mr. Nobody, played by Kurt Russell?",
+    "options": ["Fast & Furious 6", "Furious 7", "The Fate of the Furious", "F9: The Fast Saga"],
+    "correct_option": "Furious 7"
+  },
+  {
+    "id": 38,
+    "question": "In 'Fast & Furious 6,' how do Dom and Brian ultimately disable the tank during the bridge chase scene?",
+    "options": ["They shoot at the tank's engine.", "They use a magnetic device to pull it off the bridge.", "They hijack the tank's control system.", "They redirect it off the bridge by pushing its front treads."],
+    "correct_option": "They redirect it off the bridge by pushing its front treads."
+  },
+  {
+    "id": 39,
+    "question": "Which actor plays the character Deckard Shaw, a former British Special Forces assassin?",
+    "options": ["Jason Statham", "Kurt Russell", "Idris Elba", "Luke Evans"],
+    "correct_option": "Jason Statham"
+  },
+  {
+    "id": 40,
+    "question": "In 'Fast & Furious: Hobbs & Shaw,' what is the name of the genetically enhanced antagonist?",
+    "options": ["Black Panther", "Brixton Lore", "Shadow Stalker", "Venom Viper"],
+    "correct_option": "Brixton Lore"
+  },
+  {
+    "id": 41,
+    "question": "Which film features a sequence where cars skydive from an airplane during a mission?",
+    "options": ["Fast & Furious 6", "Furious 7", "The Fate of the Furious", "F9: The Fast Saga"],
+    "correct_option": "Furious 7"
+  },
+  {
+    "id": 42,
+    "question": "What is the name of the character played by Charlize Theron, who is a cyberterrorist in 'The Fate of the Furious'?",
+    "options": ["Cipher", "Siren", "Vortex", "Nebula"],
+    "correct_option": "Cipher"
+  },
+  {
+    "id": 43,
+    "question": "In 'Fast Five,' what location becomes the central setting for the heist involving stealing $100 million?",
+    "options": ["Rio de Janeiro", "Barcelona", "London", "Tokyo"],
+    "correct_option": "Rio de Janeiro"
+  },
+  {
+    "id": 44,
+    "question": "What is the title of the spin-off film that focuses on the characters Hobbs and Shaw?",
+    "options": ["Fast & Furious Presents: Hobbs & Shaw", "Fast & Furious: Spin-Off", "Hobbs vs. Shaw", "Fast & Furious: Duo"],
+    "correct_option": "Fast & Furious Presents: Hobbs & Shaw"
+  },
+  {
+    "id": 45,
+    "question": "Which actor portrays the character Owen Shaw in 'Fast & Furious 6'?",
+    "options": ["Luke Evans", "Jason Statham", "Kurt Russell", "Idris Elba"],
+    "correct_option": "Luke Evans"
+  },
+  {
+    "id": 46,
+    "question": "What is the nickname given to the group of skilled hackers led by Ramsey in 'Furious 7'?",
+    "options": ["The Codebreakers", "The Tech Titans", "The Cyber Crew", "God's Eye Squad"],
+    "correct_option": "The Tech Titans"
+  },
+  {
+    "id": 47,
+    "question": "What is the title of the short film that bridges the events between 'Furious 6' and 'Furious 7'?",
+    "options": ["Fast & Furious: Prelude", "Furious 6.5", "Furious & Furiouser", "Race to Redemption"],
+    "correct_option": "Fast & Furious: Prelude"
+  },
+  {
+    "id": 48,
+    "question": "Who is the director of 'F9: The Fast Saga,' the ninth installment in the 'Fast and Furious' series?",
+    "options": ["Justin Lin", "James Wan", "F. Gary Gray", "David Leitch"],
+    "correct_option": "Justin Lin"
+  },
+  {
+    "id": 49,
+    "question": "What is the title of the first film in the 'Fast and Furious' series released in 2001?",
+    "options": ["Fast Five", "The Fast and the Furious", "Fast & Furious 6", "2 Fast 2 Furious"],
+    "correct_option": "The Fast and the Furious"
+  },
+  {
+    "id": 50,
+    "question": "What is the name of the criminal organization led by Cipher in 'The Fate of the Furious'?",
+    "options": ["Dark Syndicate", "Shadow Alliance", "Eclipse Cartel", "Cyberterror Network"],
+    "correct_option": "Eclipse Cartel"
+  }
+]

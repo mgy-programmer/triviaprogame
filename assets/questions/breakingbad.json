@@ -1,0 +1,442 @@
+[
+  {
+    "id": 1,
+    "question": "What is the real name of the main character who becomes the drug lord 'Heisenberg'?",
+    "options": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Saul Goodman",
+      "Gustavo Fring"
+    ],
+    "correct_option": "Walter White"
+  },
+  {
+    "id": 2,
+    "question": "Who is Walter White's business partner in the methamphetamine operation?",
+    "options": [
+      "Jesse Pinkman",
+      "Hank Schrader",
+      "Gustavo Fring",
+      "Saul Goodman"
+    ],
+    "correct_option": "Jesse Pinkman"
+  },
+  {
+    "id": 3,
+    "question": "What is the name of Walter White's wife?",
+    "options": [
+      "Skyler White",
+      "Jane Margolis",
+      "Marie Schrader",
+      "Lydia Rodarte-Quayle"
+    ],
+    "correct_option": "Skyler White"
+  },
+  {
+    "id": 4,
+    "question": "Which character said the famous line, 'Say my name'?",
+    "options": [
+      "Gustavo Fring",
+      "Mike Ehrmantraut",
+      "Tuco Salamanca",
+      "Hank Schrader"
+    ],
+    "correct_option": "Gustavo Fring"
+  },
+  {
+    "id": 5,
+    "question": "What is the name of the fast-food restaurant where Gustavo Fring conducts his business?",
+    "options": [
+      "Los Pollos Hermanos",
+      "Saul's Grill",
+      "Heisenburger",
+      "Blue Sky Bites"
+    ],
+    "correct_option": "Los Pollos Hermanos"
+  },
+  {
+    "id": 6,
+    "question": "Who is the DEA agent brother-in-law of Walter White?",
+    "options": [
+      "Hank Schrader",
+      "Steve Gomez",
+      "Saul Goodman",
+      "Gus Fring"
+    ],
+    "correct_option": "Hank Schrader"
+  },
+  {
+    "id": 7,
+    "question": "What is the street name of the blue methamphetamine manufactured by Walter White and Jesse Pinkman?",
+    "options": [
+      "Blue Ice",
+      "Crystal Clear",
+      "Blue Sky",
+      "Heisenberg's Blue"
+    ],
+    "correct_option": "Blue Sky"
+  },
+  {
+    "id": 8,
+    "question": "Which character is a criminal lawyer known for his colorful personality and flashy commercials?",
+    "options": [
+      "Saul Goodman",
+      "Mike Ehrmantraut",
+      "Jesse Pinkman",
+      "Hank Schrader"
+    ],
+    "correct_option": "Saul Goodman"
+  },
+  {
+    "id": 9,
+    "question": "What is the name of the drug kingpin who becomes a major antagonist in the later seasons?",
+    "options": [
+      "Gustavo Fring",
+      "Tuco Salamanca",
+      "Hector Salamanca",
+      "Lydia Rodarte-Quayle"
+    ],
+    "correct_option": "Gustavo Fring"
+  },
+  {
+    "id": 10,
+    "question": "Who is Walter White's former student and small-time methamphetamine manufacturer?",
+    "options": [
+      "Jesse Pinkman",
+      "Todd Alquist",
+      "Krazy-8",
+      "Combo"
+    ],
+    "correct_option": "Jesse Pinkman"
+  },
+  {
+    "id": 11,
+    "question": "What is the alias used by Walter White when he enters the drug trade?",
+    "options": [
+      "Heisenberg",
+      "The One Who Knocks",
+      "The Chemist",
+      "The Blue King"
+    ],
+    "correct_option": "Heisenberg"
+  },
+  {
+    "id": 12,
+    "question": "Who is the head of the Juarez drug cartel and a major antagonist in the later seasons?",
+    "options": [
+      "Don Eladio Vuente",
+      "Hector Salamanca",
+      "Gustavo Fring",
+      "Juan Bolsa"
+    ],
+    "correct_option": "Don Eladio Vuente"
+  },
+  {
+    "id": 13,
+    "question": "What is the name of the rehabilitation center where Jane Margolis meets Jesse Pinkman?",
+    "options": [
+      "Casa Tranquila",
+      "Phoenix House",
+      "Turning Point",
+      "Recovery Haven"
+    ],
+    "correct_option": "Casa Tranquila"
+  },
+  {
+    "id": 14,
+    "question": "Which character is known for his trademark bell and role as Hector Salamanca's enforcer?",
+    "options": [
+      "Gustavo Fring",
+      "Mike Ehrmantraut",
+      "Tuco Salamanca",
+      "Leonel and Marco Salamanca"
+    ],
+    "correct_option": "Tuco Salamanca"
+  },
+  {
+    "id": 15,
+    "question": "What is the name of the lawyer who helps Walter White and Jesse Pinkman launder their money?",
+    "options": [
+      "Saul Goodman",
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill"
+    ],
+    "correct_option": "Saul Goodman"
+  },
+  {
+    "id": 16,
+    "question": "Who is the owner of the car wash that Walter White purchases to launder his money?",
+    "options": [
+      "Bogdan Wolynetz",
+      "Gretchen Schwartz",
+      "Elliot Schwartz",
+      "Declan"
+    ],
+    "correct_option": "Bogdan Wolynetz"
+  },
+  {
+    "id": 17,
+    "question": "What is the nickname given to the blue methamphetamine manufactured by Walter White?",
+    "options": [
+      "Blue Magic",
+      "Crystal Blue Persuasion",
+      "Sky Blue",
+      "Heisenberg's Blue"
+    ],
+    "correct_option": "Crystal Blue Persuasion"
+  },
+  {
+    "id": 18,
+    "question": "Who is the chemist who initially taught Walter White about the methamphetamine production process?",
+    "options": [
+      "Gale Boetticher",
+      "Lydia Rodarte-Quayle",
+      "Todd Alquist",
+      "Krazy-8"
+    ],
+    "correct_option": "Gale Boetticher"
+  },
+  {
+    "id": 19,
+    "question": "What is the name of the strip club owned by Saul Goodman's client, Vamonos Pest?",
+    "options": [
+      "The Crystal Palace",
+      "Chick Magnet",
+      "Honey Pot",
+      "The Titty Twister"
+    ],
+    "correct_option": "The Crystal Palace"
+  },
+  {
+    "id": 20,
+    "question": "Which character is known for his catchphrase, 'Yeah, science!'?",
+    "options": [
+      "Jesse Pinkman",
+      "Walter White Jr.",
+      "Saul Goodman",
+      "Badger"
+    ],
+    "correct_option": "Badger"
+  },
+  {
+    "id": 21,
+    "question": "What is the name of the security company where Mike Ehrmantraut works?",
+    "options": [
+      "Vamonos Pest",
+      "Los Pollos Hermanos",
+      "Madrigal Electromotive",
+      "Grey Matter Technologies"
+    ],
+    "correct_option": "Madrigal Electromotive"
+  },
+  {
+    "id": 22,
+    "question": "Who is the hitman employed by Gustavo Fring and later works for Walter White?",
+    "options": [
+      "Todd Alquist",
+      "Huell Babineaux",
+      "Jack Welker",
+      "Mike Ehrmantraut"
+    ],
+    "correct_option": "Mike Ehrmantraut"
+  },
+  {
+    "id": 23,
+    "question": "What is the name of the private investigator hired by Saul Goodman to investigate Walter White?",
+    "options": [
+      "Ed Galbraith",
+      "Patrick Kuby",
+      "Ira",
+      "The Disappearer"
+    ],
+    "correct_option": "Patrick Kuby"
+  },
+  {
+    "id": 24,
+    "question": "Who is the landlord of Jesse Pinkman's apartment?",
+    "options": [
+      "Jane Margolis",
+      "Mrs. Pinkman",
+      "Jane's Father",
+      "Jane's Mother"
+    ],
+    "correct_option": "Jane Margolis"
+  },
+  {
+    "id": 25,
+    "question": "What is the name of the fast-food restaurant where Jesse Pinkman works before entering the drug trade?",
+    "options": [
+      "Burger King",
+      "Los Pollos Hermanos",
+      "Twisters",
+      "Taco Bell"
+    ],
+    "correct_option": "Twisters"
+  },
+  {
+    "id": 26,
+    "question": "Who is the lawyer representing Walter White in his divorce from Skyler?",
+    "options": [
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Saul Goodman"
+    ],
+    "correct_option": "Saul Goodman"
+  },
+  {
+    "id": 27,
+    "question": "What is the name of the cartel boss who becomes a rival to Gustavo Fring?",
+    "options": [
+      "Hector Salamanca",
+      "Don Eladio Vuente",
+      "Juan Bolsa",
+      "Lalo Salamanca"
+    ],
+    "correct_option": "Lalo Salamanca"
+  },
+  {
+    "id": 28,
+    "question": "Who is the owner of the car dealership where Walter White used to work?",
+    "options": [
+      "Saul Goodman",
+      "Gretchen Schwartz",
+      "Bogdan Wolynetz",
+      "Hank Schrader"
+    ],
+    "correct_option": "Bogdan Wolynetz"
+  },
+  {
+    "id": 29,
+    "question": "What is the street name of the drug created by Jesse Pinkman and his friends?",
+    "options": [
+      "Blue Sky",
+      "Crystal Clear",
+      "Pink Panther",
+      "Black Velvet"
+    ],
+    "correct_option": "Pink Panther"
+  },
+  {
+    "id": 30,
+    "question": "Who is the scientist who initially offers Walter White a job at Gray Matter Technologies?",
+    "options": [
+      "Gretchen Schwartz",
+      "Elliot Schwartz",
+      "Hank Schrader",
+      "Gale Boetticher"
+    ],
+    "correct_option": "Gretchen Schwartz"
+  },
+  {
+    "id": 31,
+    "question": "What is the name of the air traffic controller whose mistake leads to a tragic mid-air collision?",
+    "options": [
+      "Ted Beneke",
+      "Jane Margolis",
+      "Donald Margolis",
+      "Andrea Cantillo"
+    ],
+    "correct_option": "Donald Margolis"
+  },
+  {
+    "id": 32,
+    "question": "Who is the drug dealer who becomes romantically involved with Jane Margolis?",
+    "options": [
+      "Krazy-8",
+      "Combo",
+      "Badger",
+      "Jesse Pinkman"
+    ],
+    "correct_option": "Jesse Pinkman"
+  },
+  {
+    "id": 33,
+    "question": "What is the name of the lawyer who represents Jesse Pinkman during his legal troubles?",
+    "options": [
+      "Kim Wexler",
+      "Howard Hamlin",
+      "Chuck McGill",
+      "Saul Goodman"
+    ],
+    "correct_option": "Saul Goodman"
+  },
+  {
+    "id": 34,
+    "question": "Who is the leader of the white supremacist gang that becomes a major threat in the final season?",
+    "options": [
+      "Jack Welker",
+      "Todd Alquist",
+      "Kenny",
+      "Lydia Rodarte-Quayle"
+    ],
+    "correct_option": "Jack Welker"
+  },
+  {
+    "id": 35,
+    "question": "What is the name of the nursing home where Hector Salamanca resides?",
+    "options": [
+      "Casa Tranquila",
+      "Sandpiper Crossing",
+      "Madrigal Electromotive",
+      "Los Pollos Hermanos"
+    ],
+    "correct_option": "Casa Tranquila"
+  },
+  {
+    "id": 36,
+    "question": "Who is the scientist who helps Jesse Pinkman steal methylamine from a freight train?",
+    "options": [
+      "Gale Boetticher",
+      "Lydia Rodarte-Quayle",
+      "Todd Alquist",
+      "Krazy-8"
+    ],
+    "correct_option": "Todd Alquist"
+  },
+  {
+    "id": 37,
+    "question": "What is the name of the drug lord who partners with Walter White and Jesse Pinkman in the early seasons?",
+    "options": [
+      "Gustavo Fring",
+      "Tuco Salamanca",
+      "Hector Salamanca",
+      "Krazy-8"
+    ],
+    "correct_option": "Tuco Salamanca"
+  },
+  {
+    "id": 38,
+    "question": "Who is the private investigator hired by Saul Goodman to keep tabs on Jesse Pinkman?",
+    "options": [
+      "Patrick Kuby",
+      "Ed Galbraith",
+      "The Disappearer",
+      "Kim Wexler"
+    ],
+    "correct_option": "Patrick Kuby"
+  },
+  {
+    "id": 39,
+    "question": "What is the name of the rehabilitation center where Jane Margolis meets Jesse Pinkman?",
+    "options": [
+      "Casa Tranquila",
+      "Phoenix House",
+      "Turning Point",
+      "Recovery Haven"
+    ],
+    "correct_option": "Casa Tranquila"
+  },
+  {
+    "id": 40,
+    "question": "Who is the DEA agent who initially investigates the blue methamphetamine?",
+    "options": [
+      "Hank Schrader",
+      "Steve Gomez",
+      "Gomez",
+      "Hank's Partner"
+    ],
+    "correct_option": "Hank Schrader"
+  }
+]

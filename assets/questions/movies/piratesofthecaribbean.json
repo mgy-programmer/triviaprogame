@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "What is the name of Captain Jack Sparrow's ship in the 'Pirates of the Caribbean' series?",
+    "options": ["The Black Pearl", "The Flying Dutchman", "The Queen Anne's Revenge", "The Interceptor"],
+    "correct_option": "The Black Pearl"
+  },
+  {
+    "id": 2,
+    "question": "In 'Pirates of the Caribbean: The Curse of the Black Pearl,' what cursed item causes the crew of the Black Pearl to become undead?",
+    "options": ["Cursed Coins", "Aztec Gold", "Cursed Medallions", "The Trident of Poseidon"],
+    "correct_option": "Aztec Gold"
+  },
+  {
+    "id": 3,
+    "question": "Who plays the role of Captain Hector Barbossa, the main antagonist in the first 'Pirates of the Caribbean' film?",
+    "options": ["Geoffrey Rush", "Johnny Depp", "Orlando Bloom", "Javier Bardem"],
+    "correct_option": "Geoffrey Rush"
+  },
+  {
+    "id": 4,
+    "question": "What supernatural event occurs during the titular 'Dead Man's Chest' in the second film of the series?",
+    "options": ["Zombie Pirates", "Davy Jones' Heart", "Ghost Ship Sighting", "Mermaid Encounter"],
+    "correct_option": "Davy Jones' Heart"
+  },
+  {
+    "id": 5,
+    "question": "Who is the captain of the Flying Dutchman in 'Pirates of the Caribbean: Dead Man's Chest'?",
+    "options": ["Captain Salazar", "Captain Jack Sparrow", "Davy Jones", "Blackbeard"],
+    "correct_option": "Davy Jones"
+  },
+  {
+    "id": 6,
+    "question": "What is the name of the mysterious sea goddess featured in 'Pirates of the Caribbean: At World's End'?",
+    "options": ["Calypso", "Tia Dalma", "Athena", "Sirena"],
+    "correct_option": "Calypso"
+  },
+  {
+    "id": 7,
+    "question": "In 'Pirates of the Caribbean: On Stranger Tides,' what mythical object are various characters searching for?",
+    "options": ["The Fountain of Youth", "The Lost City of Atlantis", "Excalibur", "Pandora's Box"],
+    "correct_option": "The Fountain of Youth"
+  },
+  {
+    "id": 8,
+    "question": "Who plays the role of Captain Edward Teague, Jack Sparrow's father, in the 'Pirates of the Caribbean' series?",
+    "options": ["Keith Richards", "Bill Nighy", "Geoffrey Rush", "Tom Hollander"],
+    "correct_option": "Keith Richards"
+  },
+  {
+    "id": 9,
+    "question": "What mythical creature guards the Trident of Poseidon in 'Pirates of the Caribbean: Dead Men Tell No Tales'?",
+    "options": ["The Kraken", "The Hydra", "The Siren", "The Ghost Shark"],
+    "correct_option": "The Ghost Shark"
+  },
+  {
+    "id": 10,
+    "question": "In 'Pirates of the Caribbean: At World's End,' what is the name of the pirate council convened to discuss the threat posed by Lord Cutler Beckett?",
+    "options": ["The Brethren Court", "The Pirate Parliament", "The Sea Conclave", "The Corsair Assembly"],
+    "correct_option": "The Brethren Court"
+  },
+  {
+    "id": 11,
+    "question": "What is the name of Jack Sparrow's loyal and bumbling first mate throughout the series?",
+    "options": ["Will Turner", "Joshamee Gibbs", "Pintel", "Ragetti"],
+    "correct_option": "Joshamee Gibbs"
+  },
+  {
+    "id": 12,
+    "question": "In 'Pirates of the Caribbean: At World's End,' what is the name of the ship that serves as the meeting point for the Brethren Court?",
+    "options": ["The Black Pearl", "The Endeavour", "The Empress", "The Edinburgh Trader"],
+    "correct_option": "The Empress"
+  },
+  {
+    "id": 13,
+    "question": "Who is the captain of the ship known as the Silent Mary in 'Pirates of the Caribbean: Dead Men Tell No Tales'?",
+    "options": ["Captain Salazar", "Captain Armando Salazar", "Captain Blackbeard", "Captain Hector Barbossa"],
+    "correct_option": "Captain Armando Salazar"
+  },
+  {
+    "id": 14,
+    "question": "What is the primary motivation of Captain Salazar in 'Pirates of the Caribbean: Dead Men Tell No Tales'?",
+    "options": ["Revenge on Jack Sparrow", "Finding the Fountain of Youth", "Obtaining Davy Jones' Heart", "Conquering the Caribbean"],
+    "correct_option": "Revenge on Jack Sparrow"
+  },
+  {
+    "id": 15,
+    "question": "In 'Pirates of the Caribbean: On Stranger Tides,' what does Jack Sparrow seek inside the Fountain of Youth?",
+    "options": ["Eternal Youth", "Endless Gold", "The Kraken's Release", "The Map to Atlantis"],
+    "correct_option": "Eternal Youth"
+  },
+  {
+    "id": 16,
+    "question": "Who plays the role of Captain Sao Feng, the Pirate Lord of Singapore, in 'Pirates of the Caribbean: At World's End'?",
+    "options": ["Chow Yun-fat", "Tony Leung Chiu-wai", "Jet Li", "Donnie Yen"],
+    "correct_option": "Chow Yun-fat"
+  },
+  {
+    "id": 17,
+    "question": "What is the name of the cursed object that ties Davy Jones to the Flying Dutchman in 'Pirates of the Caribbean: Dead Man's Chest'?",
+    "options": ["The Heart of the Ocean", "Davy Jones' Compass", "The Kraken's Tentacle", "Davy Jones' Organ"],
+    "correct_option": "Davy Jones' Organ"
+  },
+  {
+    "id": 18,
+    "question": "In 'Pirates of the Caribbean: At World's End,' what is the name of the sea goddess released from her human form?",
+    "options": ["Athena", "Tia Dalma", "Calypso", "Sirena"],
+    "correct_option": "Calypso"
+  },
+  {
+    "id": 19,
+    "question": "What is the mystical item that grants control over the seas and is sought after in 'Pirates of the Caribbean: Dead Men Tell No Tales'?",
+    "options": ["Davy Jones' Chest", "The Trident of Poseidon", "The Pearl of the Ocean", "The Sea Conch"],
+    "correct_option": "The Trident of Poseidon"
+  },
+  {
+    "id": 20,
+    "question": "What is the name of Jack Sparrow's father, who is the Keeper of the Pirate Code?",
+    "options": ["Teague Sparrow", "Edward Teague", "William Turner Sr.", "Cutler Beckett"],
+    "correct_option": "Edward Teague"
+  },
+  {
+    "id": 21,
+    "question": "What is the name of Jack Sparrow's love interest, portrayed by Keira Knightley, in the first three films of the series?",
+    "options": ["Elizabeth Swann", "Angelica Teach", "Anamaria", "Syrena"],
+    "correct_option": "Elizabeth Swann"
+  },
+  {
+    "id": 22,
+    "question": "In 'Pirates of the Caribbean: On Stranger Tides,' what special item is needed to complete the ritual at the Fountain of Youth?",
+    "options": ["A Mermaid's Tear", "A Tear of the Sea", "A Chalice of Tears", "A Drop of Destiny"],
+    "correct_option": "A Chalice of Tears"
+  },
+  {
+    "id": 23,
+    "question": "Who is the pirate that seeks revenge on Jack Sparrow for the loss of his leg, wielding a prosthetic appendage with various weapons?",
+    "options": ["Blackbeard", "Bootstrap Bill Turner", "Captain Salazar", "Captain Hector Barbossa"],
+    "correct_option": "Captain Hector Barbossa"
+  },
+  {
+    "id": 24,
+    "question": "What is the name of the voodoo priestess who plays a crucial role in 'Pirates of the Caribbean: Dead Man's Chest' and 'At World's End'?",
+    "options": ["Tia Dalma", "Sao Feng", "Mistress Ching", "Angelica Teach"],
+    "correct_option": "Tia Dalma"
+  },
+  {
+    "id": 25,
+    "question": "In 'Pirates of the Caribbean: Dead Men Tell No Tales,' what is Captain Salazar's ship, which is known for its supernatural abilities?",
+    "options": ["The Black Pearl", "The Flying Dutchman", "The Silent Mary", "The Queen Anne's Revenge"],
+    "correct_option": "The Silent Mary"
+  },
+  {
+    "id": 26,
+    "question": "Who plays the role of Angelica Teach, a character with a complicated history with Jack Sparrow, in 'Pirates of the Caribbean: On Stranger Tides'?",
+    "options": ["Penélope Cruz", "Naomie Harris", "Zoe Saldana", "Salma Hayek"],
+    "correct_option": "Penélope Cruz"
+  },
+  {
+    "id": 27,
+    "question": "What is the name of the island where Jack Sparrow is stranded with Elizabeth Swann and others in 'Pirates of the Caribbean: Dead Man's Chest'?",
+    "options": ["Isla de Muerta", "Shipwreck Cove", "Isla Cruces", "Hangman's Bay"],
+    "correct_option": "Isla Cruces"
+  },
+  {
+    "id": 28,
+    "question": "Which character becomes the captain of the Flying Dutchman at the end of 'Pirates of the Caribbean: At World's End'?",
+    "options": ["Davy Jones", "Will Turner", "Bootstrap Bill Turner", "Marty"],
+    "correct_option": "Will Turner"
+  },
+  {
+    "id": 29,
+    "question": "What is the name of Jack Sparrow's father's ship, which serves as a meeting place for the Pirate Lords?",
+    "options": ["The Empress", "The Edinburgh Trader", "The Black Pearl", "The Barnacle"],
+    "correct_option": "The Edinburgh Trader"
+  },
+  {
+    "id": 30,
+    "question": "In 'Pirates of the Caribbean: Dead Men Tell No Tales,' what is the name of Jack Sparrow's crew member who becomes a ghost after encountering Captain Salazar?",
+    "options": ["Marty", "Pintel", "Scrum", "Mullroy"],
+    "correct_option": "Mullroy"
+  },
+  {
+    "id": 31,
+    "question": "What is the name of the eccentric astronomer who possesses one of the maps leading to the Fountain of Youth in 'Pirates of the Caribbean: On Stranger Tides'?",
+    "options": ["Captain Teague", "Professor Simeon", "Captain Jack Sparrow", "Carina Smyth"],
+    "correct_option": "Professor Simeon"
+  },
+  {
+    "id": 32,
+    "question": "In 'Pirates of the Caribbean: Dead Men Tell No Tales,' what is the connection between Captain Salazar and Jack Sparrow's past?",
+    "options": ["Childhood Friends", "Father and Son", "Former Allies", "Mentor and Protege"],
+    "correct_option": "Former Allies"
+  },
+  {
+    "id": 33,
+    "question": "What is the name of the mythical sea creature that guards the entrance to Davy Jones' Locker in 'Pirates of the Caribbean: At World's End'?",
+    "options": ["The Kraken", "The Leviathan", "The Sea Serpent", "The Hydra"],
+    "correct_option": "The Kraken"
+  },
+  {
+    "id": 34,
+    "question": "Who is the British Royal Navy officer determined to capture Captain Jack Sparrow and later becomes a privateer in 'Pirates of the Caribbean: The Curse of the Black Pearl'?",
+    "options": ["Admiral James Norrington", "Captain Cutler Beckett", "Commodore James Norrington", "Governor Weatherby Swann"],
+    "correct_option": "Commodore James Norrington"
+  },
+  {
+    "id": 35,
+    "question": "What is the name of the mythical island that can only be found with the navigational charts owned by Jack Sparrow in 'Pirates of the Caribbean: At World's End'?",
+    "options": ["Isla de Muerta", "Isla de Pelegostos", "Shipwreck Cove", "Isla de los Pantanos"],
+    "correct_option": "Isla de los Pantanos"
+  },
+  {
+    "id": 36,
+    "question": "Who is the captain of the East India Trading Company's flagship, the Endeavour, in 'Pirates of the Caribbean: At World's End'?",
+    "options": ["Lord Cutler Beckett", "Captain Sao Feng", "Admiral James Norrington", "Lieutenant Gillette"],
+    "correct_option": "Lord Cutler Beckett"
+  },
+  {
+    "id": 37,
+    "question": "In 'Pirates of the Caribbean: On Stranger Tides,' what is the name of the deadly ritual performed to locate the Fountain of Youth?",
+    "options": ["The Voodoo Rite", "The Ritual of the Mermaids", "The Pirate's Pact", "The Profane Ritual"],
+    "correct_option": "The Profane Ritual"
+  },
+  {
+    "id": 38,
+    "question": "Who is the legendary pirate who supposedly left clues leading to the location of the Trident of Poseidon in 'Pirates of the Caribbean: Dead Men Tell No Tales'?",
+    "options": ["Blackbeard", "Edward Teague", "Henry Morgan", "Redd's Ghost"],
+    "correct_option": "Edward Teague"
+  },
+  {
+    "id": 39,
+    "question": "What is the name of the prison where Jack Sparrow is held captive at the beginning of 'Pirates of the Caribbean: Dead Man's Chest'?",
+    "options": ["Port Royal Dungeon", "Devil's Triangle", "Fort Charles Prison", "Isla Cruces Prison"],
+    "correct_option": "Fort Charles Prison"
+  },
+  {
+    "id": 40,
+    "question": "Who is the captain of the pirate ship known as the Queen Anne's Revenge in 'Pirates of the Caribbean: On Stranger Tides'?",
+    "options": ["Blackbeard", "Captain Salazar", "Davy Jones", "Captain Barbossa"],
+    "correct_option": "Blackbeard"
+  },
+  {
+    "id": 41,
+    "question": "What is the name of Jack Sparrow's beloved compass that points to the thing a person wants most?",
+    "options": ["Compass of Destiny", "Sparrow's Needle", "The True North Compass", "Captain's Compass"],
+    "correct_option": "Captain's Compass"
+  },
+  {
+    "id": 42,
+    "question": "In 'Pirates of the Caribbean: Dead Man's Chest,' who possesses a jar of dirt that becomes a critical plot element?",
+    "options": ["Captain Jack Sparrow", "Davy Jones", "Will Turner", "Tia Dalma"],
+    "correct_option": "Captain Jack Sparrow"
+  },
+  {
+    "id": 43,
+    "question": "What is the name of the mystical object that controls the seas and is sought after by various characters throughout the series?",
+    "options": ["Poseidon's Trident", "Neptune's Crown", "Aqua Orb", "The Ocean's Scepter"],
+    "correct_option": "Poseidon's Trident"
+  },
+  {
+    "id": 44,
+    "question": "Which character is known for saying, 'But why is the rum gone?' in 'Pirates of the Caribbean: The Curse of the Black Pearl'?",
+    "options": ["Captain Jack Sparrow", "Captain Barbossa", "Elizabeth Swann", "Joshamee Gibbs"],
+    "correct_option": "Captain Jack Sparrow"
+  },
+  {
+    "id": 45,
+    "question": "In 'Pirates of the Caribbean: At World's End,' what celestial event marks the moment when the Brethren Court must convene?",
+    "options": ["Solar Eclipse", "Blood Moon", "Green Flash", "Halley's Comet"],
+    "correct_option": "Green Flash"
+  },
+  {
+    "id": 46,
+    "question": "Who plays the role of Will Turner, a skilled blacksmith and key character in the 'Pirates of the Caribbean' series?",
+    "options": ["Orlando Bloom", "Johnny Depp", "Keira Knightley", "Geoffrey Rush"],
+    "correct_option": "Orlando Bloom"
+  },
+  {
+    "id": 47,
+    "question": "What is the name of the cursed pirate crew in 'Pirates of the Caribbean: The Curse of the Black Pearl'?",
+    "options": ["The Ghostly Gang", "The Cursed Corsairs", "The Black Pearl's Crew", "The Undead Pirates"],
+    "correct_option": "The Undead Pirates"
+  },
+  {
+    "id": 48,
+    "question": "In 'Pirates of the Caribbean: Dead Men Tell No Tales,' what is the name of the young astronomer who teams up with Jack Sparrow?",
+    "options": ["Will Turner Jr.", "Henry Turner", "David Turner", "Samuel Turner"],
+    "correct_option": "Henry Turner"
+  },
+  {
+    "id": 49,
+    "question": "What is the name of the pub where Jack Sparrow recruits his crew in 'Pirates of the Caribbean: The Curse of the Black Pearl'?",
+    "options": ["The Jolly Roger", "The Black Pearl Inn", "The Drunken Sailor", "The Faithful Bride"],
+    "correct_option": "The Faithful Bride"
+  },
+  {
+    "id": 50,
+    "question": "Who is the actor behind the character Captain Salazar in 'Pirates of the Caribbean: Dead Men Tell No Tales'?",
+    "options": ["Javier Bardem", "Geoffrey Rush", "Ian McShane", "Tom Hollander"],
+    "correct_option": "Javier Bardem"
+  }
+]

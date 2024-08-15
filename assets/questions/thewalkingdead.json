@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "question": "Who is the leader of the survivors in The Walking Dead?",
+    "options": ["Rick Grimes", "Daryl Dixon", "Carol Peletier", "Maggie Greene"],
+    "correct_option": "Rick Grimes"
+  },
+  {
+    "id": 2,
+    "question": "What is the name of Rick Grimes' son in the series?",
+    "options": ["Shane Grimes", "Carl Grimes", "Judith Grimes", "Morgan Grimes"],
+    "correct_option": "Carl Grimes"
+  },
+  {
+    "id": 3,
+    "question": "Where does most of the action in The Walking Dead take place?",
+    "options": ["Atlanta", "Los Angeles", "New York", "Washington, D.C."],
+    "correct_option": "Atlanta"
+  },
+  {
+    "id": 4,
+    "question": "What is the name of the baseball bat wrapped in barbed wire used by Negan?",
+    "options": ["Lucille", "Maggie", "Daryl", "Ezekiel"],
+    "correct_option": "Lucille"
+  },
+  {
+    "id": 5,
+    "question": "Who is the former sheriff's deputy and main protagonist of The Walking Dead comics?",
+    "options": ["Daryl Dixon", "Negan", "Michonne", "Rick Grimes"],
+    "correct_option": "Rick Grimes"
+  },
+  {
+    "id": 6,
+    "question": "What is the name of the settlement led by the Governor in The Walking Dead?",
+    "options": ["Woodbury", "Hilltop", "Alexandria", "Sanctuary"],
+    "correct_option": "Woodbury"
+  },
+  {
+    "id": 7,
+    "question": "Who is Michonne's most iconic companion in the series?",
+    "options": ["Morgan Jones", "Daryl Dixon", "Glenn Rhee", "Pet walkers"],
+    "correct_option": "Pet walkers"
+  },
+  {
+    "id": 8,
+    "question": "What virus is responsible for reanimating the dead in The Walking Dead?",
+    "options": ["Z-Virus", "Walker Virus", "Rage Virus", "T-Virus"],
+    "correct_option": "Walker Virus"
+  },
+  {
+    "id": 9,
+    "question": "What is the name of the katana-wielding survivor known for her pet zombies in chains?",
+    "options": ["Carol Peletier", "Andrea", "Maggie Greene", "Michonne"],
+    "correct_option": "Michonne"
+  },
+  {
+    "id": 10,
+    "question": "What is the name of the leader of the Whisperers, who wears a mask made of human skin?",
+    "options": ["Beta", "Alpha", "Gamma", "Omega"],
+    "correct_option": "Alpha"
+  },
+  {
+    "id": 11,
+    "question": "What is the primary mode of transportation used by survivors in The Walking Dead?",
+    "options": ["Cars", "Bicycles", "Horses", "Motorcycles"],
+    "correct_option": "Cars"
+  },
+  {
+    "id": 12,
+    "question": "What is the name of the priest who joins Rick's group in the series?",
+    "options": ["Gabriel Stokes", "Father Matthew", "Father Joseph", "Father Gregory"],
+    "correct_option": "Gabriel Stokes"
+  },
+  {
+    "id": 13,
+    "question": "What is the name of Daryl Dixon's older brother, who becomes a significant antagonist?",
+    "options": ["Merle Dixon", "Dixon Dixon", "Earl Dixon", "Denny Dixon"],
+    "correct_option": "Merle Dixon"
+  },
+  {
+    "id": 14,
+    "question": "What nickname do survivors give to the undead in The Walking Dead?",
+    "options": ["Zs", "Biters", "Geeks", "Roamers"],
+    "correct_option": "Biters"
+  },
+  {
+    "id": 15,
+    "question": "What is the name of the community known for its strict class system based on occupation?",
+    "options": ["Hilltop", "The Kingdom", "The Saviors", "The Commonwealth"],
+    "correct_option": "The Commonwealth"
+  },
+  {
+    "id": 16,
+    "question": "What is the name of the character who loses his leg and later becomes a skilled archer?",
+    "options": ["Morgan Jones", "Glenn Rhee", "The Governor", "Dale Horvath"],
+    "correct_option": "Dale Horvath"
+  },
+  {
+    "id": 17,
+    "question": "What is the name of the farmhouse where the survivors take refuge in the early seasons?",
+    "options": ["Greene Farm", "Dixon Farm", "Grimes Farm", "Morgan Farm"],
+    "correct_option": "Greene Farm"
+  },
+  {
+    "id": 18,
+    "question": "Who is the leader of the Hilltop community?",
+    "options": ["Maggie Greene", "Paul Monroe", "Ezekiel", "Dwight"],
+    "correct_option": "Maggie Greene"
+  },
+  {
+    "id": 19,
+    "question": "What is the name of the charismatic leader with a pet tiger, who rules the Kingdom?",
+    "options": ["Negan", "Ezekiel", "Dwight", "Shiva"],
+    "correct_option": "Ezekiel"
+  },
+  {
+    "id": 20,
+    "question": "What is the name of the scientist who appears in Season 1 and tries to find a cure for the outbreak?",
+    "options": ["Dr. Eugene Porter", "Dr. Edwin Jenner", "Dr. Laura Stevens", "Dr. Sarah Turner"],
+    "correct_option": "Dr. Edwin Jenner"
+  },
+  {
+    "id": 21,
+    "question": "What is the name of the town that serves as the main setting in the later seasons of The Walking Dead?",
+    "options": ["Alexandria", "Woodbury", "Sanctuary", "Terminus"],
+    "correct_option": "Alexandria"
+  },
+  {
+    "id": 22,
+    "question": "What is the name of the ruthless group led by Negan in the series?",
+    "options": ["The Saviors", "The Wolves", "The Whisperers", "The Scavengers"],
+    "correct_option": "The Saviors"
+  },
+  {
+    "id": 23,
+    "question": "What is the title of the spin-off series that focuses on the first generation of survivors?",
+    "options": ["Fear the Walking Dead", "The Walking Dead: Origins", "The Walking Dead: Redemption", "The Walking Dead: Chronicles"],
+    "correct_option": "Fear the Walking Dead"
+  },
+  {
+    "id": 24,
+    "question": "What is the name of the prison where the survivors find refuge in the series?",
+    "options": ["West Georgia Correctional Facility", "Eastman Federal Penitentiary", "Shawshank State Prison", "Greene Correctional Institution"],
+    "correct_option": "West Georgia Correctional Facility"
+  },
+  {
+    "id": 25,
+    "question": "Who is the mysterious character with a crossbow and a troubled past?",
+    "options": ["Daryl Dixon", "Tyreese Williams", "Shane Walsh", "Dwight"],
+    "correct_option": "Daryl Dixon"
+  },
+  {
+    "id": 26,
+    "question": "What is the name of the character who becomes the leader of the Alexandria Safe-Zone?",
+    "options": ["Aaron", "Deanna Monroe", "Nicholas", "Spencer Monroe"],
+    "correct_option": "Deanna Monroe"
+  },
+  {
+    "id": 27,
+    "question": "What is the name of the group that wears walker skin disguises to move freely among the undead?",
+    "options": ["The Wolves", "The Whisperers", "The Scavengers", "The Vultures"],
+    "correct_option": "The Whisperers"
+  },
+  {
+    "id": 28,
+    "question": "What is the name of the doctor at the Hilltop community?",
+    "options": ["Dr. Harlan Carson", "Dr. Denise Cloyd", "Dr. Edwin Jenner", "Dr. Candace Jenner"],
+    "correct_option": "Dr. Harlan Carson"
+  },
+  {
+    "id": 29,
+    "question": "What is the name of the group led by Alpha's daughter, who breaks away from the Whisperers?",
+    "options": ["The Reapers", "The Hunters", "The Saviors", "The Marauders"],
+    "correct_option": "The Reapers"
+  },
+  {
+    "id": 30,
+    "question": "What is the name of the character known for his signature weapon, a barbed-wire-wrapped mace?",
+    "options": ["Tyreese Williams", "Paul Rovia", "Ezekiel", "Beta"],
+    "correct_option": "Beta"
+  },
+  {
+    "id": 31,
+    "question": "What is the name of the community where survivors live in a series of connected train cars?",
+    "options": ["Terminus", "Sanctuary", "The Kingdom", "Hilltop"],
+    "correct_option": "Terminus"
+  },
+  {
+    "id": 32,
+    "question": "What is the name of the character who claims to be a scientist with knowledge of the apocalypse?",
+    "options": ["Milton Mamet", "Eugene Porter", "Dr. Edwin Jenner", "Bob Stookey"],
+    "correct_option": "Eugene Porter"
+  },
+  {
+    "id": 33,
+    "question": "What is the name of the mysterious community surrounded by a wall of chained walkers?",
+    "options": ["The Sanctuary", "The Kingdom", "Oceanside", "The Junkyard"],
+    "correct_option": "The Sanctuary"
+  },
+  {
+    "id": 34,
+    "question": "What is the name of the character who communicates with Rick's group using a series of signs?",
+    "options": ["Connie", "Magnus", "Yumiko", "Luke"],
+    "correct_option": "Connie"
+  },
+  {
+    "id": 35,
+    "question": "What is the name of the character who owns a pet tiger named Shiva?",
+    "options": ["Ezekiel", "Jerry", "Dwight", "Morgan Jones"],
+    "correct_option": "Ezekiel"
+  },
+  {
+    "id": 36,
+    "question": "What is the name of the community led by a former music teacher, where the survivors encounter the Whisperers?",
+    "options": ["The Commonwealth", "Oceanside", "Hilltop", "The Kingdom"],
+    "correct_option": "The Commonwealth"
+  },
+  {
+    "id": 37,
+    "question": "What is the name of the character who becomes a close ally to Rick after the fall of the prison?",
+    "options": ["Abraham Ford", "Rosita Espinosa", "Sasha Williams", "Morgan Jones"],
+    "correct_option": "Morgan Jones"
+  },
+  {
+    "id": 38,
+    "question": "What is the name of the community that Negan leads?",
+    "options": ["The Saviors", "The Whisperers", "The Hilltop", "The Sanctuary"],
+    "correct_option": "The Saviors"
+  },
+  {
+    "id": 39,
+    "question": "What is the name of the character who claims to be a journalist and documents the survivors' stories?",
+    "options": ["Aaron", "Beth Greene", "Enid", "Tara Chambler"],
+    "correct_option": "Beth Greene"
+  },
+  {
+    "id": 40,
+    "question": "What is the name of the character who loses an eye and becomes the leader of the Alexandria Safe-Zone?",
+    "options": ["Carl Grimes", "Ron Anderson", "Sam Anderson", "Jessie Anderson"],
+    "correct_option": "Carl Grimes"
+  }
+]

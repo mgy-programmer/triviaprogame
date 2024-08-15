@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "question": "What is the name of the school attended by Harry Potter?",
+    "options": [
+      "Beauxbatons Academy",
+      "Ilvermorny School",
+      "Hogwarts School of Witchcraft and Wizardry",
+      "Durmstrang Institute"
+    ],
+    "correct_option": "Hogwarts School of Witchcraft and Wizardry"
+  },
+  {
+    "id": 2,
+    "question": "Which magical creature helps Hagrid guard the entrance to Hogwarts in 'The Philosopher's Stone'?",
+    "options": [
+      "Hippogriff",
+      "Basilisk",
+      "Cerberus",
+      "Fluffy"
+    ],
+    "correct_option": "Fluffy"
+  },
+  {
+    "id": 3,
+    "question": "What is the name of the three-headed dog guarding the trapdoor on the third floor of Hogwarts in 'The Philosopher's Stone'?",
+    "options": [
+      "Norbert",
+      "Fang",
+      "Fluffy",
+      "Aragog"
+    ],
+    "correct_option": "Fluffy"
+  },
+  {
+    "id": 4,
+    "question": "Which magical object allows Harry to view memories stored within it?",
+    "options": [
+      "Pensieve",
+      "Time-Turner",
+      "Remembrall",
+      "Deluminator"
+    ],
+    "correct_option": "Pensieve"
+  },
+  {
+    "id": 5,
+    "question": "In 'The Chamber of Secrets,' what type of magical creature is Dobby?",
+    "options": [
+      "House-Elf",
+      "Goblin",
+      "Veela",
+      "Werewolf"
+    ],
+    "correct_option": "House-Elf"
+  },
+  {
+    "id": 6,
+    "question": "What is the name of the magical plant in the Triwizard Tournament maze that grabs Harry and strangles Viktor Krum?",
+    "options": [
+      "Devil's Snare",
+      "Mandrake",
+      "Whomping Willow",
+      "Blast-Ended Skrewt"
+    ],
+    "correct_option": "Devil's Snare"
+  },
+  {
+    "id": 7,
+    "question": "What magical creature does Luna Lovegood introduce in 'The Order of the Phoenix' that can only be seen by those who have witnessed death?",
+    "options": [
+      "Thestral",
+      "Hippogriff",
+      "Blast-Ended Skrewt",
+      "Boggart"
+    ],
+    "correct_option": "Thestral"
+  },
+  {
+    "id": 8,
+    "question": "What is the name of the wizarding bank in 'Diagon Alley'?",
+    "options": [
+      "Gringotts",
+      "Eeylops Owl Emporium",
+      "Ollivanders",
+      "Florean Fortescue's Ice Cream Parlor"
+    ],
+    "correct_option": "Gringotts"
+  },
+  {
+    "id": 9,
+    "question": "Which Deathly Hallow does Harry inherit from Dumbledore?",
+    "options": [
+      "Elder Wand",
+      "Resurrection Stone",
+      "Invisibility Cloak",
+      "Philosopher's Stone"
+    ],
+    "correct_option": "Resurrection Stone"
+  },
+  {
+    "id": 10,
+    "question": "What is the name of the Half-Blood Prince?",
+    "options": [
+      "Tom Riddle",
+      "Sirius Black",
+      "Severus Snape",
+      "Remus Lupin"
+    ],
+    "correct_option": "Severus Snape"
+  },
+  {
+    "id": 11,
+    "question": "What magical creature is a servant of the Dark Arts and can transform into the shape of a cat?",
+    "options": [
+      "Hippogriff",
+      "Basilisk",
+      "Animagus",
+      "Kneazle"
+    ],
+    "correct_option": "Animagus"
+  },
+  {
+    "id": 12,
+    "question": "What is the name of the magical object that reveals the true intentions of the person holding it?",
+    "options": [
+      "Sneakoscope",
+      "Omnioculars",
+      "Deluminator",
+      "Foe-Glass"
+    ],
+    "correct_option": "Foe-Glass"
+  },
+  {
+    "id": 13,
+    "question": "In 'The Goblet of Fire,' what event does Harry participate in that involves retrieving a golden egg?",
+    "options": [
+      "Triwizard Tournament",
+      "Quidditch World Cup",
+      "Yule Ball",
+      "O.W.L. Exams"
+    ],
+    "correct_option": "Triwizard Tournament"
+  },
+  {
+    "id": 14,
+    "question": "What is the core of Harry Potter's wand?",
+    "options": [
+      "Phoenix Feather",
+      "Dragon Heartstring",
+      "Unicorn Hair",
+      "Thestral Tail Hair"
+    ],
+    "correct_option": "Phoenix Feather"
+  },
+  {
+    "id": 15,
+    "question": "What is the name of the magical map that shows the entire layout of Hogwarts, including secret passages?",
+    "options": [
+      "Marauder's Map",
+      "Magical Cartographer",
+      "Hogwarts Atlas",
+      "Enchanted Blueprint"
+    ],
+    "correct_option": "Marauder's Map"
+  },
+  {
+    "id": 16,
+    "question": "What is the name of the ancient and powerful wizarding tournament that takes place every five years?",
+    "options": [
+      "Triwizard Tournament",
+      "Wizarding World Cup",
+      "Quidditch Championship",
+      "The Grand Sorcery Games"
+    ],
+    "correct_option": "Triwizard Tournament"
+  },
+  {
+    "id": 17,
+    "question": "Which magical creature is known for its ability to produce a silvery, illuminating substance that repels Dementors?",
+    "options": [
+      "Hippogriff",
+      "Blast-Ended Skrewt",
+      "Thestral",
+      "Patronus"
+    ],
+    "correct_option": "Patronus"
+  },
+  {
+    "id": 18,
+    "question": "What is the name of the powerful artifact that can be used to recall and view memories?",
+    "options": [
+      "Pensieve",
+      "Mirror of Erised",
+      "Time-Turner",
+      "Remembrall"
+    ],
+    "correct_option": "Pensieve"
+  },
+  {
+    "id": 19,
+    "question": "Who is the ghost of Ravenclaw House at Hogwarts?",
+    "options": [
+      "Nearly Headless Nick",
+      "The Grey Lady",
+      "The Fat Friar",
+      "The Bloody Baron"
+    ],
+    "correct_option": "The Grey Lady"
+  },
+  {
+    "id": 20,
+    "question": "What type of magical creature is Buckbeak?",
+    "options": [
+      "Thestral",
+      "Hippogriff",
+      "Acromantula",
+      "Basilisk"
+    ],
+    "correct_option": "Hippogriff"
+  },
+  {
+    "id": 21,
+    "question": "What is the name of the spell used to summon objects to the caster's hand?",
+    "options": [
+      "Alohomora",
+      "Accio",
+      "Expelliarmus",
+      "Lumos"
+    ],
+    "correct_option": "Accio"
+  },
+  {
+    "id": 22,
+    "question": "In 'The Prisoner of Azkaban,' what is the name of the magical creature that can suck the happiness out of people?",
+    "options": [
+      "Boggart",
+      "Dementor",
+      "Grindylow",
+      "Hinkypunk"
+    ],
+    "correct_option": "Dementor"
+  },
+  {
+    "id": 23,
+    "question": "What is the name of the magical device that allows wizards to enter the wizarding world hidden behind the Leaky Cauldron?",
+    "options": [
+      "Portkey",
+      "Apparition",
+      "Leaky Cauldron",
+      "Diagon Alley Key"
+    ],
+    "correct_option": "Leaky Cauldron"
+  },
+  {
+    "id": 24,
+    "question": "What is the name of the house-elf who is initially enslaved by the Malfoy family and later freed by Harry?",
+    "options": [
+      "Dobby",
+      "Kreacher",
+      "Winky",
+      "Hokey"
+    ],
+    "correct_option": "Dobby"
+  },
+  {
+    "id": 25,
+    "question": "Which magical creature is known for its ability to change its appearance at will?",
+    "options": [
+      "Metamorphmagus",
+      "Veela",
+      "Animagus",
+      "Werewolf"
+    ],
+    "correct_option": "Metamorphmagus"
+  },
+  {
+    "id": 26,
+    "question": "What is the name of the enchanted ceiling in the Great Hall at Hogwarts that reflects the outside sky?",
+    "options": [
+      "Astronomy Dome",
+      "Sky Vault",
+      "Starfield Canopy",
+      "The Ceiling of Enchantment"
+    ],
+    "correct_option": "The Ceiling of Enchantment"
+  },
+  {
+    "id": 27,
+    "question": "Which magical plant has healing properties and is used in the production of healing potions?",
+    "options": [
+      "Mandrake",
+      "Wolfsbane",
+      "Gillyweed",
+      "Feverfew"
+    ],
+    "correct_option": "Feverfew"
+  },
+  {
+    "id": 28,
+    "question": "What is the name of the magical creature that is a cross between a horse and a bird with a giant wingspan?",
+    "options": [
+      "Hippogriff",
+      "Thestral",
+      "Abraxan",
+      "Blast-Ended Skrewt"
+    ],
+    "correct_option": "Hippogriff"
+  },
+  {
+    "id": 29,
+    "question": "In 'The Half-Blood Prince,' what potion does Harry retrieve a memory about in order to learn more about Voldemort?",
+    "options": [
+      "Felix Felicis",
+      "Polyjuice Potion",
+      "Amortentia",
+      "Horcruxes"
+    ],
+    "correct_option": "Horcruxes"
+  },
+  {
+    "id": 30,
+    "question": "What is the name of the magical object that shows the location of its possessor's soul pieces?",
+    "options": [
+      "The Marauder's Map",
+      "The Sorcerer's Stone",
+      "The Resurrection Stone",
+      "Marvolo Gaunt's Ring"
+    ],
+    "correct_option": "Marvolo Gaunt's Ring"
+  },
+  {
+    "id": 31,
+    "question": "What is the name of the magical creature that Harry saves in the Triwizard Tournament's underwater challenge?",
+    "options": [
+      "Blast-Ended Skrewt",
+      "Mermaid",
+      "Grindylow",
+      "Giant Squid"
+    ],
+    "correct_option": "Mermaid"
+  },
+  {
+    "id": 32,
+    "question": "What magical plant is used to create a Polyjuice Potion that allows the drinker to temporarily assume another person's appearance?",
+    "options": [
+      "Mandrake",
+      "Devil's Snare",
+      "Boomslang Skin",
+      "Fluxweed"
+    ],
+    "correct_option": "Fluxweed"
+  },
+  {
+    "id": 33,
+    "question": "What is the name of the wizarding hospital where characters visit in 'The Half-Blood Prince'?",
+    "options": [
+      "St. Mungo's Hospital for Magical Maladies",
+      "Azkaban",
+      "The Burrow",
+      "Shrieking Shack"
+    ],
+    "correct_option": "St. Mungo's Hospital for Magical Maladies"
+  },
+  {
+    "id": 34,
+    "question": "Which member of the Weasley family works as a curse breaker for Gringotts Bank?",
+    "options": [
+      "Charlie Weasley",
+      "Bill Weasley",
+      "Percy Weasley",
+      "Fred Weasley"
+    ],
+    "correct_option": "Bill Weasley"
+  },
+  {
+    "id": 35,
+    "question": "What magical creature serves as a guide for Harry when he travels to the Department of Mysteries in 'The Order of the Phoenix'?",
+    "options": [
+      "Thestral",
+      "House-Elf",
+      "Phoenix",
+      "Kneazle"
+    ],
+    "correct_option": "Thestral"
+  },
+  {
+    "id": 36,
+    "question": "In 'The Goblet of Fire,' what type of dragon does Harry face in the first task of the Triwizard Tournament?",
+    "options": [
+      "Hungarian Horntail",
+      "Swedish Short-Snout",
+      "Chinese Fireball",
+      "Common Welsh Green"
+    ],
+    "correct_option": "Hungarian Horntail"
+  },
+  {
+    "id": 37,
+    "question": "What is the name of the magical newspaper that reports on wizarding news and events?",
+    "options": [
+      "The Daily Prophet",
+      "The Quibbler",
+      "The Wizarding World News",
+      "The Evening Oracle"
+    ],
+    "correct_option": "The Daily Prophet"
+  },
+  {
+    "id": 38,
+    "question": "Which magical creature is known for guarding vaults at Gringotts Bank?",
+    "options": [
+      "Thestral",
+      "Hippogriff",
+      "Blast-Ended Skrewt",
+      "Dragon"
+    ],
+    "correct_option": "Dragon"
+  },
+  {
+    "id": 39,
+    "question": "What is the name of the magical artifact that allows the holder to become the Master of Death?",
+    "options": [
+      "The Elder Wand",
+      "The Resurrection Stone",
+      "The Invisibility Cloak",
+      "The Sorcerer's Stone"
+    ],
+    "correct_option": "The Elder Wand"
+  },
+  {
+    "id": 40,
+    "question": "What is the name of Hagrid's giant pet spider in 'The Philosopher's Stone'?",
+    "options": [
+      "Aragog",
+      "Fang",
+      "Norbert",
+      "Buckbeak"
+    ],
+    "correct_option": "Aragog"
+  },
+  {
+    "id": 41,
+    "question": "What is the name of the wizard who created the Philosopher's Stone?",
+    "options": [
+      "Alastor Moody",
+      "Nicolas Flamel",
+      "Gellert Grindelwald",
+      "Rubeus Hagrid"
+    ],
+    "correct_option": "Nicolas Flamel"
+  },
+  {
+    "id": 42,
+    "question": "What creature guards the entrance to the Chamber of Secrets?",
+    "options": [
+      "Basilisk",
+      "Aragog",
+      "Hippogriff",
+      "Thestral"
+    ],
+    "correct_option": "Basilisk"
+  },
+  {
+    "id": 43,
+    "question": "In 'The Prisoner of Azkaban,' what is the name of the magical creature that pulls the carriages from Hogsmeade Station to Hogwarts?",
+    "options": [
+      "Hippogriff",
+      "Thestral",
+      "Abraxan",
+      "Centaur"
+    ],
+    "correct_option": "Thestral"
+  },
+  {
+    "id": 44,
+    "question": "What is the name of the magical creature that helps Harry breathe underwater during the Triwizard Tournament's second task?",
+    "options": [
+      "Gillyweed",
+      "Bubble-Head Charm",
+      "Mermish",
+      "Water Nymph"
+    ],
+    "correct_option": "Gillyweed"
+  },
+  {
+    "id": 45,
+    "question": "Which ghost is the House Ghost of Ravenclaw?",
+    "options": [
+      "Nearly Headless Nick",
+      "The Fat Friar",
+      "The Grey Lady",
+      "The Bloody Baron"
+    ],
+    "correct_option": "The Grey Lady"
+  },
+  {
+    "id": 46,
+    "question": "What is the name of the magical creature that can transform into the likeness of any object?",
+    "options": [
+      "Chimaera",
+      "Boggart",
+      "Niffler",
+      "Poltergeist"
+    ],
+    "correct_option": "Boggart"
+  },
+  {
+    "id": 47,
+    "question": "What type of dragon does Viktor Krum face in the Triwizard Tournament?",
+    "options": [
+      "Hungarian Horntail",
+      "Swedish Short-Snout",
+      "Chinese Fireball",
+      "Common Welsh Green"
+    ],
+    "correct_option": "Chinese Fireball"
+  },
+  {
+    "id": 48,
+    "question": "What is the name of the village where the Weasley family resides?",
+    "options": [
+      "Ottery St. Catchpole",
+      "Little Hangleton",
+      "Tinworth",
+      "Godric's Hollow"
+    ],
+    "correct_option": "Ottery St. Catchpole"
+  },
+  {
+    "id": 49,
+    "question": "In 'The Half-Blood Prince,' what potion does Professor Slughorn invite Harry to make during a private lesson?",
+    "options": [
+      "Polyjuice Potion",
+      "Amortentia",
+      "Felix Felicis",
+      "Draught of Living Death"
+    ],
+    "correct_option": "Felix Felicis"
+  },
+  {
+    "id": 50,
+    "question": "What is the name of the magical creature that serves as the messenger for wizards and witches?",
+    "options": [
+      "Hippogriff",
+      "Thestral",
+      "Owl",
+      "Phoenix"
+    ],
+    "correct_option": "Owl"
+  }
+]

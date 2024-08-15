@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "question": "What powerful object does the Fellowship of the Ring set out to destroy?",
+    "options": [
+      "The One Ring",
+      "The Elven Dagger",
+      "The Mithril Shield",
+      "The Arkenstone"
+    ],
+    "correct_option": "The One Ring"
+  },
+  {
+    "id": 2,
+    "question": "Who is the primary antagonist in 'The Lord of the Rings' trilogy?",
+    "options": [
+      "Saruman",
+      "Sauron",
+      "Gollum",
+      "Saruman"
+    ],
+    "correct_option": "Sauron"
+  },
+  {
+    "id": 3,
+    "question": "What race is Legolas, one of the members of the Fellowship?",
+    "options": [
+      "Dwarf",
+      "Elf",
+      "Human",
+      "Hobbit"
+    ],
+    "correct_option": "Elf"
+  },
+  {
+    "id": 4,
+    "question": "In which fictional world does 'The Lord of the Rings' take place?",
+    "options": [
+      "Middle-earth",
+      "Narnia",
+      "Westeros",
+      "Hogwarts"
+    ],
+    "correct_option": "Middle-earth"
+  },
+  {
+    "id": 5,
+    "question": "What is the name of Gandalf's sword?",
+    "options": [
+      "Sting",
+      "Glamdring",
+      "Andúril",
+      "Narsil"
+    ],
+    "correct_option": "Glamdring"
+  },
+  {
+    "id": 6,
+    "question": "Who is the author of 'The Lord of the Rings' book series?",
+    "options": [
+      "J.K. Rowling",
+      "George R.R. Martin",
+      "J.R.R. Tolkien",
+      "C.S. Lewis"
+    ],
+    "correct_option": "J.R.R. Tolkien"
+  },
+  {
+    "id": 7,
+    "question": "Which character becomes corrupted by the One Ring?",
+    "options": [
+      "Frodo Baggins",
+      "Aragorn",
+      "Boromir",
+      "Legolas"
+    ],
+    "correct_option": "Boromir"
+  },
+  {
+    "id": 8,
+    "question": "What is the capital city of Gondor?",
+    "options": [
+      "Rivendell",
+      "Minas Tirith",
+      "Helm's Deep",
+      "Isengard"
+    ],
+    "correct_option": "Minas Tirith"
+  },
+  {
+    "id": 9,
+    "question": "What is the name of the creature that Frodo and Sam encounter in the Dead Marshes?",
+    "options": [
+      "Shelob",
+      "Balrog",
+      "Gollum",
+      "Nazgûl"
+    ],
+    "correct_option": "Shelob"
+  },
+  {
+    "id": 10,
+    "question": "Which actor played the role of Frodo Baggins in the film trilogy?",
+    "options": [
+      "Elijah Wood",
+      "Viggo Mortensen",
+      "Ian McKellen",
+      "Orlando Bloom"
+    ],
+    "correct_option": "Elijah Wood"
+  },
+  {
+    "id": 11,
+    "question": "What is the name of the hobbit who becomes the Ring-bearer?",
+    "options": [
+      "Samwise Gamgee",
+      "Merry Brandybuck",
+      "Frodo Baggins",
+      "Pippin Took"
+    ],
+    "correct_option": "Frodo Baggins"
+  },
+  {
+    "id": 12,
+    "question": "Which creature guides Frodo and Sam through the treacherous paths of Mordor?",
+    "options": [
+      "Gollum",
+      "Gimli",
+      "Treebeard",
+      "Radagast"
+    ],
+    "correct_option": "Gollum"
+  },
+  {
+    "id": 13,
+    "question": "What is the name of the ancient tree-like beings in Fangorn Forest?",
+    "options": [
+      "Ents",
+      "Hobbits",
+      "Orcs",
+      "Uruk-hai"
+    ],
+    "correct_option": "Ents"
+  },
+  {
+    "id": 14,
+    "question": "Which member of the Fellowship is known for his skill with a bow and arrow?",
+    "options": [
+      "Aragorn",
+      "Gimli",
+      "Legolas",
+      "Boromir"
+    ],
+    "correct_option": "Legolas"
+  },
+  {
+    "id": 15,
+    "question": "What is the name of the inn in Bree where Frodo and his companions meet Aragorn?",
+    "options": [
+      "The Prancing Pony",
+      "The Green Dragon",
+      "The Shire's Rest",
+      "The Ivy Inn"
+    ],
+    "correct_option": "The Prancing Pony"
+  },
+  {
+    "id": 16,
+    "question": "Which river do Frodo and Sam cross with Gollum's help to enter Mordor?",
+    "options": [
+      "Morgulduin",
+      "Brandywine",
+      "Isen",
+      "Entwash"
+    ],
+    "correct_option": "Morgulduin"
+  },
+  {
+    "id": 17,
+    "question": "What is the name of the ancient language written on the One Ring?",
+    "options": [
+      "Elvish",
+      "Dwarvish",
+      "Black Speech",
+      "Entish"
+    ],
+    "correct_option": "Black Speech"
+  },
+  {
+    "id": 18,
+    "question": "Who is the ruler of Rohan during the events of 'The Two Towers'?",
+    "options": [
+      "Théoden",
+      "Éomer",
+      "Éowyn",
+      "Grima Wormtongue"
+    ],
+    "correct_option": "Théoden"
+  },
+  {
+    "id": 19,
+    "question": "What is the name of the wizard who leads the Fellowship and later becomes Gandalf the White?",
+    "options": [
+      "Saruman",
+      "Radagast",
+      "Gandalf the Grey",
+      "Alatar"
+    ],
+    "correct_option": "Gandalf the Grey"
+  },
+  {
+    "id": 20,
+    "question": "Which character famously says, 'You shall not pass!' during a confrontation in Moria?",
+    "options": [
+      "Aragorn",
+      "Legolas",
+      "Gimli",
+      "Gandalf"
+    ],
+    "correct_option": "Gandalf"
+  },
+  {
+    "id": 21,
+    "question": "What is the name of Frodo's uncle, who initially possesses the One Ring?",
+    "options": [
+      "Bilbo Baggins",
+      "Drogo Baggins",
+      "Balbo Baggins",
+      "Fosco Baggins"
+    ],
+    "correct_option": "Bilbo Baggins"
+  },
+  {
+    "id": 22,
+    "question": "Which ancient artifact is crucial to the defeat of Sauron and the destruction of the One Ring?",
+    "options": [
+      "The Silmarils",
+      "The Palantír",
+      "Mount Doom",
+      "The Arkenstone"
+    ],
+    "correct_option": "Mount Doom"
+  },
+  {
+    "id": 23,
+    "question": "Who is the leader of the Rangers of the North and goes by the alias 'Strider'?",
+    "options": [
+      "Elrond",
+      "Thranduil",
+      "Aragorn",
+      "Boromir"
+    ],
+    "correct_option": "Aragorn"
+  },
+  {
+    "id": 24,
+    "question": "What is the name of the spider-like creature encountered by Frodo and Sam in Mordor?",
+    "options": [
+      "Shelob",
+      "Ungoliant",
+      "Arachne",
+      "Lobelia"
+    ],
+    "correct_option": "Shelob"
+  },
+  {
+    "id": 25,
+    "question": "Which member of the Fellowship is skilled in mining and has a deep affinity for precious stones?",
+    "options": [
+      "Gimli",
+      "Legolas",
+      "Boromir",
+      "Faramir"
+    ],
+    "correct_option": "Gimli"
+  },
+  {
+    "id": 26,
+    "question": "What is the name of the river that flows through Lothlórien, where the Fellowship meets Galadriel?",
+    "options": [
+      "Anduin",
+      "Celebrant",
+      "Lhûn",
+      "Erui"
+    ],
+    "correct_option": "Celebrant"
+  },
+  {
+    "id": 27,
+    "question": "Which character is known for his love of pipe-weed, a type of tobacco in Middle-earth?",
+    "options": [
+      "Gollum",
+      "Gandalf",
+      "Merry",
+      "Pippin"
+    ],
+    "correct_option": "Gandalf"
+  },
+  {
+    "id": 28,
+    "question": "What is the name of the enchanted forest through which the Hobbits travel to reach Tom Bombadil?",
+    "options": [
+      "Fangorn Forest",
+      "Old Forest",
+      "Mirkwood",
+      "Lothlórien"
+    ],
+    "correct_option": "Old Forest"
+  },
+  {
+    "id": 29,
+    "question": "Who is the steward of Gondor, the father of Boromir and Faramir?",
+    "options": [
+      "Denethor",
+      "Boromir",
+      "Faramir",
+      "Aragorn"
+    ],
+    "correct_option": "Denethor"
+  },
+  {
+    "id": 30,
+    "question": "What mythical creatures come to the rescue of the Fellowship, carrying them across the mountains after their escape from the mines of Moria?",
+    "options": [
+      "Eagles",
+      "Ents",
+      "Dragons",
+      "Gwaihir"
+    ],
+    "correct_option": "Eagles"
+  },
+  {
+    "id": 31,
+    "question": "What is the name of the ancient city that Aragorn, Legolas, and Gimli seek refuge in 'The Two Towers'?",
+    "options": [
+      "Rohan",
+      "Gondor",
+      "Rivendell",
+      "Helm's Deep"
+    ],
+    "correct_option": "Helm's Deep"
+  },
+  {
+    "id": 32,
+    "question": "Who is the master smith who reforges the shards of Narsil into the sword Andúril?",
+    "options": [
+      "Elrond",
+      "Thranduil",
+      "Gimli",
+      "Celeborn"
+    ],
+    "correct_option": "Elrond"
+  },
+  {
+    "id": 33,
+    "question": "What is the name of the forest where the Ents reside?",
+    "options": [
+      "Lothlórien",
+      "Fangorn",
+      "Mirkwood",
+      "Old Forest"
+    ],
+    "correct_option": "Fangorn"
+  },
+  {
+    "id": 34,
+    "question": "Which two characters share a deep friendship, often referring to each other as 'my friend'?",
+    "options": [
+      "Legolas and Gimli",
+      "Frodo and Sam",
+      "Aragorn and Boromir",
+      "Gandalf and Saruman"
+    ],
+    "correct_option": "Legolas and Gimli"
+  },
+  {
+    "id": 35,
+    "question": "What is the name of the creature that carries Frodo and Sam into Mordor?",
+    "options": [
+      "Eagles",
+      "Giant Eagles",
+      "Nazgûl",
+      "Oliphaunts"
+    ],
+    "correct_option": "Giant Eagles"
+  },
+  {
+    "id": 36,
+    "question": "What power does the One Ring grant its bearer?",
+    "options": [
+      "Invisibility",
+      "Telekinesis",
+      "Shape-shifting",
+      "Mind control"
+    ],
+    "correct_option": "Invisibility"
+  },
+  {
+    "id": 37,
+    "question": "Which member of the Fellowship is a skilled healer and tends to Frodo's wounds in Rivendell?",
+    "options": [
+      "Aragorn",
+      "Gandalf",
+      "Frodo",
+      "Elrond"
+    ],
+    "correct_option": "Aragorn"
+  },
+  {
+    "id": 38,
+    "question": "What is the name of the region where the hobbits encounter the Barrow-wights?",
+    "options": [
+      "The Shire",
+      "The Barrow-downs",
+      "Bree-land",
+      "The Lone-lands"
+    ],
+    "correct_option": "The Barrow-downs"
+  },
+  {
+    "id": 39,
+    "question": "Which character is known for his love of boats and sailing?",
+    "options": [
+      "Aragorn",
+      "Legolas",
+      "Frodo",
+      "Boromir"
+    ],
+    "correct_option": "Legolas"
+  },
+  {
+    "id": 40,
+    "question": "What is the name of the ancient tree in Fangorn Forest that speaks to Merry and Pippin?",
+    "options": [
+      "Treebeard",
+      "Quickbeam",
+      "Old Man Willow",
+      "Tom Bombadil"
+    ],
+    "correct_option": "Treebeard"
+  },
+  {
+    "id": 41,
+    "question": "What is the name of the horse given to Legolas by Éomer in 'The Two Towers'?",
+    "options": [
+      "Shadowfax",
+      "Bill the Pony",
+      "Arod",
+      "Brego"
+    ],
+    "correct_option": "Arod"
+  },
+  {
+    "id": 42,
+    "question": "Which member of the Fellowship is known for his love of second breakfasts?",
+    "options": [
+      "Frodo",
+      "Pippin",
+      "Merry",
+      "Sam"
+    ],
+    "correct_option": "Pippin"
+  },
+  {
+    "id": 43,
+    "question": "What creature does Frodo encounter in the Dead Marshes that tries to lure him into the water?",
+    "options": [
+      "Gollum",
+      "The Watcher in the Water",
+      "Nazgûl",
+      "Barrow-wight"
+    ],
+    "correct_option": "Gollum"
+  },
+  {
+    "id": 44,
+    "question": "What is the name of the fortress where Sauron resides and the Eye of Sauron watches over Middle-earth?",
+    "options": [
+      "Barad-dûr",
+      "Orthanc",
+      "Minas Morgul",
+      "Cirith Ungol"
+    ],
+    "correct_option": "Barad-dûr"
+  },
+  {
+    "id": 45,
+    "question": "Which character is known for his love of gardening and is the head of the gardening community in the Shire?",
+    "options": [
+      "Samwise Gamgee",
+      "Frodo Baggins",
+      "Meriadoc Brandybuck",
+      "Gandalf"
+    ],
+    "correct_option": "Samwise Gamgee"
+  },
+  {
+    "id": 46,
+    "question": "What is the name of the ancient elf who gives Frodo the light of Eärendil (phial of Galadriel) for protection?",
+    "options": [
+      "Galadriel",
+      "Arwen",
+      "Elrond",
+      "Glorfindel"
+    ],
+    "correct_option": "Galadriel"
+  },
+  {
+    "id": 47,
+    "question": "What is the nickname of the horse that belonged to Boromir?",
+    "options": [
+      "Shadowfax",
+      "Brego",
+      "Arod",
+      "Firefoot"
+    ],
+    "correct_option": "Firefoot"
+  },
+  {
+    "id": 48,
+    "question": "In 'The Fellowship of the Ring,' what is the name of the ancient elven song that tells the history of the One Ring?",
+    "options": [
+      "Lament for Boromir",
+      "The Lay of Leithian",
+      "The Song of Durin",
+      "A Elbereth Gilthoniel"
+    ],
+    "correct_option": "A Elbereth Gilthoniel"
+  },
+  {
+    "id": 49,
+    "question": "What is the name of Frodo's sword that he receives from Bilbo, also known as Sting?",
+    "options": [
+      "Andúril",
+      "Glamdring",
+      "Orcrist",
+      "Sting"
+    ],
+    "correct_option": "Sting"
+  },
+  {
+    "id": 50,
+    "question": "Who is the king of the Dead Men of Dunharrow, bound by an oath to Isildur?",
+    "options": [
+      "Théoden",
+      "Gimli",
+      "Aragorn",
+      "Elrond"
+    ],
+    "correct_option": "Aragorn"
+  }
+]

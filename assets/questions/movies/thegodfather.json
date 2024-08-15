@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "Who directed 'The Godfather' film trilogy?",
+    "options": ["Martin Scorsese", "Francis Ford Coppola", "Quentin Tarantino", "Alfred Hitchcock"],
+    "correct_option": "Francis Ford Coppola"
+  },
+  {
+    "id": 2,
+    "question": "What is the name of the patriarch of the Corleone family in 'The Godfather'?",
+    "options": ["Michael Corleone", "Vito Corleone", "Sonny Corleone", "Fredo Corleone"],
+    "correct_option": "Vito Corleone"
+  },
+  {
+    "id": 3,
+    "question": "What event serves as the catalyst for the Corleone family's involvement in the Mafia?",
+    "options": ["Vito's wedding", "Michael's graduation", "Sonny's wedding", "Fredo's initiation"],
+    "correct_option": "Vito's wedding"
+  },
+  {
+    "id": 4,
+    "question": "Who portrays the character Michael Corleone in 'The Godfather' trilogy?",
+    "options": ["Al Pacino", "Robert De Niro", "Marlon Brando", "James Caan"],
+    "correct_option": "Al Pacino"
+  },
+  {
+    "id": 5,
+    "question": "What is the nickname of the hitman who serves as the Corleone family's enforcer?",
+    "options": ["The Shadow", "The Phantom", "The Reaper", "The Godfather"],
+    "correct_option": "The Godfather"
+  },
+  {
+    "id": 6,
+    "question": "Which city serves as the primary setting for 'The Godfather' trilogy?",
+    "options": ["Las Vegas", "Chicago", "New York City", "Los Angeles"],
+    "correct_option": "New York City"
+  },
+  {
+    "id": 7,
+    "question": "What type of business does the Corleone family use as a front for their criminal activities?",
+    "options": ["Olive Oil Importing", "Bakery", "Restaurant", "Car Dealership"],
+    "correct_option": "Olive Oil Importing"
+  },
+  {
+    "id": 8,
+    "question": "In 'The Godfather: Part II,' what parallel storyline explores Vito Corleone's early life?",
+    "options": ["Michael's Rise to Power", "Sonny's Vendetta", "Fredos' Betrayal", "The Young Vito Chronicles"],
+    "correct_option": "The Young Vito Chronicles"
+  },
+  {
+    "id": 9,
+    "question": "What iconic line is associated with the character Don Vito Corleone?",
+    "options": ["I'll be back", "Here's looking at you, kid", "Say hello to my little friend", "I'm gonna make him an offer he can't refuse"],
+    "correct_option": "I'm gonna make him an offer he can't refuse"
+  },
+  {
+    "id": 10,
+    "question": "Who is the primary antagonist in 'The Godfather: Part III'?",
+    "options": ["Virgil Sollozzo", "Hyman Roth", "Vincent Mancini", "Joey Zasa"],
+    "correct_option": "Joey Zasa"
+  },
+  {
+    "id": 11,
+    "question": "In 'The Godfather,' what is the name of the horse that Jack Woltz wakes up next to?",
+    "options": ["Black Stallion", "White Lightning", "Silver Bullet", "Khartoum"],
+    "correct_option": "Khartoum"
+  },
+  {
+    "id": 12,
+    "question": "Who is the adopted son of Vito Corleone and becomes a U.S. senator in 'The Godfather: Part II'?",
+    "options": ["Tom Hagen", "Fredo Corleone", "Michael Corleone", "Frank Pentangeli"],
+    "correct_option": "Tom Hagen"
+  },
+  {
+    "id": 13,
+    "question": "What is the name of the singer who performs at Michael Corleone's son's communion party in 'The Godfather'?",
+    "options": ["Frank Sinatra", "Dean Martin", "Johnny Fontane", "Bobby Darin"],
+    "correct_option": "Johnny Fontane"
+  },
+  {
+    "id": 14,
+    "question": "What is the name of Michael Corleone's first wife in 'The Godfather'?",
+    "options": ["Kay Adams", "Connie Corleone", "Sandra Corleone", "Apollonia Vitelli"],
+    "correct_option": "Apollonia Vitelli"
+  },
+  {
+    "id": 15,
+    "question": "Who is the director of 'The Godfather: Part III'?",
+    "options": ["Francis Ford Coppola", "Martin Scorsese", "Steven Spielberg", "Quentin Tarantino"],
+    "correct_option": "Francis Ford Coppola"
+  },
+  {
+    "id": 16,
+    "question": "What is the name of the compound in Nevada where Michael Corleone moves the family operations?",
+    "options": ["Lake Tahoe Compound", "Desert Oasis Estate", "Sierra Nevada Ranch", "Mojave Retreat"],
+    "correct_option": "Lake Tahoe Compound"
+  },
+  {
+    "id": 17,
+    "question": "What is the name of the hitman who wears a hat and glasses while attempting to assassinate Michael Corleone in 'The Godfather'?",
+    "options": ["Luca Brasi", "Clemenza", "Sollozzo", "The Turk"],
+    "correct_option": "The Turk"
+  },
+  {
+    "id": 18,
+    "question": "What is the name of Vito Corleone's wife, who plays a significant role in the family's history?",
+    "options": ["Carmela Corleone", "Rosie Corleone", "Sofia Corleone", "Isabella Corleone"],
+    "correct_option": "Carmela Corleone"
+  },
+  {
+    "id": 19,
+    "question": "What is the famous line spoken by Michael Corleone in 'The Godfather' after a failed assassination attempt?",
+    "options": ["I'm gonna make him an offer he can't refuse", "You can't handle the truth", "Keep your friends close, but your enemies closer", "Just when I thought I was out, they pull me back in"],
+    "correct_option": "Just when I thought I was out, they pull me back in"
+  },
+  {
+    "id": 20,
+    "question": "What event does the character Fredo Corleone betray the family's trust in 'The Godfather: Part II'?",
+    "options": ["Assassination attempt on Michael", "Selling family secrets to rivals", "Plotting against Vito Corleone", "Drug trafficking with enemies"],
+    "correct_option": "Assassination attempt on Michael"
+  },
+  {
+    "id": 21,
+    "question": "What gift does Michael Corleone give to his brother Fredo as a gesture of reconciliation in 'The Godfather: Part II'?",
+    "options": ["A new car", "A boat", "A Rolex watch", "A diamond necklace"],
+    "correct_option": "A new car"
+  },
+  {
+    "id": 22,
+    "question": "Who is the actor behind the character of Vito Corleone in 'The Godfather'?",
+    "options": ["Marlon Brando", "Al Pacino", "Robert De Niro", "James Caan"],
+    "correct_option": "Marlon Brando"
+  },
+  {
+    "id": 23,
+    "question": "What is the name of the loyal family friend and consigliere to the Corleones in 'The Godfather'?",
+    "options": ["Tom Hagen", "Clemenza", "Tessio", "Genco Abbandando"],
+    "correct_option": "Tom Hagen"
+  },
+  {
+    "id": 24,
+    "question": "What is the profession of Michael Corleone before he becomes deeply involved in the family's criminal activities?",
+    "options": ["Lawyer", "Doctor", "Soldier", "Politician"],
+    "correct_option": "Soldier"
+  },
+  {
+    "id": 25,
+    "question": "What is the name of the rival gangster who initiates the attempt on Don Corleone's life in 'The Godfather'?",
+    "options": ["Virgil Sollozzo", "Hyman Roth", "Joey Zasa", "Barzini"],
+    "correct_option": "Virgil Sollozzo"
+  },
+  {
+    "id": 26,
+    "question": "What iconic object is placed in the mouth of Jack Woltz's prize racehorse in 'The Godfather'?",
+    "options": ["A rose", "A gun", "A fish", "A severed horse head"],
+    "correct_option": "A severed horse head"
+  },
+  {
+    "id": 27,
+    "question": "What is the name of the estate where the Corleone family holds their daughter's wedding in 'The Godfather'?",
+    "options": ["Corleone Manor", "Lake Tahoe Compound", "Woltz Estate", "Hagen House"],
+    "correct_option": "Woltz Estate"
+  },
+  {
+    "id": 28,
+    "question": "What is the name of Michael Corleone's second wife in 'The Godfather' trilogy?",
+    "options": ["Apollonia Vitelli", "Kay Adams", "Connie Corleone", "Sandra Corleone"],
+    "correct_option": "Kay Adams"
+  },
+  {
+    "id": 29,
+    "question": "In 'The Godfather: Part III,' what is the title of the opera attended by Michael Corleone and his family?",
+    "options": ["Carmen", "La Traviata", "Tosca", "Cavalleria Rusticana"],
+    "correct_option": "Cavalleria Rusticana"
+  },
+  {
+    "id": 30,
+    "question": "What is the name of the fictional island country where Michael Corleone seeks to invest in 'The Godfather: Part II'?",
+    "options": ["Cuba", "Sicily", "Corsica", "Malta"],
+    "correct_option": "Cuba"
+  },
+  {
+    "id": 31,
+    "question": "What is the name of Vito Corleone's wife who appears in flashbacks during 'The Godfather: Part II'?",
+    "options": ["Carmela Corleone", "Isabella Corleone", "Rosie Corleone", "Sofia Corleone"],
+    "correct_option": "Isabella Corleone"
+  },
+  {
+    "id": 32,
+    "question": "Who is the hitman responsible for assassinating Fredo Corleone in 'The Godfather: Part II'?",
+    "options": ["Al Neri", "Rocco Lampone", "Willi Cicci", "The Turk"],
+    "correct_option": "Al Neri"
+  },
+  {
+    "id": 33,
+    "question": "What is the name of the Corleone family's olive oil business, which serves as a front for their criminal activities?",
+    "options": ["Corleone Olive Company", "Genco Pura Olive Oil Company", "Sicilian Gold Olive Oil", "Don Vito Olive Oil"],
+    "correct_option": "Genco Pura Olive Oil Company"
+  },
+  {
+    "id": 34,
+    "question": "What does Michael Corleone famously say to his brother Fredo in 'The Godfather: Part II'?",
+    "options": ["You're dead to me", "I love you, Fredo", "Never betray the family", "Keep your friends close, but your enemies closer"],
+    "correct_option": "You're dead to me"
+  },
+  {
+    "id": 35,
+    "question": "What is the name of the powerful gangster who collaborates with Michael Corleone in 'The Godfather: Part II'?",
+    "options": ["Hyman Roth", "Frank Pentangeli", "Virgil Sollozzo", "Joey Zasa"],
+    "correct_option": "Hyman Roth"
+  },
+  {
+    "id": 36,
+    "question": "Who is the actor behind the character of Fredo Corleone in 'The Godfather'?",
+    "options": ["John Cazale", "James Caan", "Al Pacino", "Robert Duvall"],
+    "correct_option": "John Cazale"
+  },
+  {
+    "id": 37,
+    "question": "What is the name of the restaurant where Michael Corleone's attempt on a rival gangster's life takes place in 'The Godfather'?",
+    "options": ["Tattaglia Trattoria", "Sollozzo's Supper Club", "Louie's Ristorante", "Corleone Cucina"],
+    "correct_option": "Louie's Ristorante"
+  },
+  {
+    "id": 38,
+    "question": "In 'The Godfather: Part III,' what is the name of Michael Corleone's legitimate business venture?",
+    "options": ["Corleone Enterprises", "Vito & Son Imports", "Imperial Foods", "Michael's Pizzeria"],
+    "correct_option": "Imperial Foods"
+  },
+  {
+    "id": 39,
+    "question": "What is the name of the hitman who helps Michael Corleone in eliminating his enemies in 'The Godfather'?",
+    "options": ["Luca Brasi", "Clemenza", "Al Neri", "Rocco Lampone"],
+    "correct_option": "Clemenza"
+  },
+  {
+    "id": 40,
+    "question": "In 'The Godfather,' what gift does Woltz initially refuse to give to Johnny Fontane?",
+    "options": ["A role in a movie", "A new car", "A mansion", "A horse"],
+    "correct_option": "A role in a movie"
+  },
+  {
+    "id": 41,
+    "question": "What is the name of the character who famously says, 'Leave the gun. Take the cannoli' in 'The Godfather'?",
+    "options": ["Clemenza", "Luca Brasi", "Tom Hagen", "Frank Pentangeli"],
+    "correct_option": "Clemenza"
+  },
+  {
+    "id": 42,
+    "question": "What does Michael Corleone order to be placed on the grave of his first wife, Apollonia, in 'The Godfather'?",
+    "options": ["Roses", "An Italian flag", "A wedding ring", "A photograph"],
+    "correct_option": "Roses"
+  },
+  {
+    "id": 43,
+    "question": "What event marks the beginning of the Corleone family's decline in 'The Godfather: Part III'?",
+    "options": ["Assassination attempt on Michael", "Death of Vito Corleone", "Betrayal by Tom Hagen", "Vincent's rise to power"],
+    "correct_option": "Assassination attempt on Michael"
+  },
+  {
+    "id": 44,
+    "question": "What is the title of the novel written by Mario Puzo on which 'The Godfather' film is based?",
+    "options": ["The Sicilian", "The Family", "Omertà", "The Godfather"],
+    "correct_option": "The Godfather"
+  },
+  {
+    "id": 45,
+    "question": "What is the name of the character played by Robert De Niro in 'The Godfather: Part II'?",
+    "options": ["Vito Corleone", "Fredo Corleone", "Sonny Corleone", "Hyman Roth"],
+    "correct_option": "Vito Corleone"
+  },
+  {
+    "id": 46,
+    "question": "What is the name of the hotel where Michael Corleone and his family stay in Cuba in 'The Godfather: Part II'?",
+    "options": ["The Havana Hilton", "The Tropicana Hotel", "Hotel Nacional", "Casa Corleone"],
+    "correct_option": "Hotel Nacional"
+  },
+  {
+    "id": 47,
+    "question": "Who is the author of the famous score for 'The Godfather' films?",
+    "options": ["John Williams", "Ennio Morricone", "Hans Zimmer", "Nino Rota"],
+    "correct_option": "Nino Rota"
+  },
+  {
+    "id": 48,
+    "question": "What is the nickname given to the Corleone family's consigliere, Tom Hagen?",
+    "options": ["The Brain", "The Fox", "The Snake", "The Lawyer"],
+    "correct_option": "The Brain"
+  },
+  {
+    "id": 49,
+    "question": "In 'The Godfather: Part II,' who kills Fredo Corleone on Michael's orders?",
+    "options": ["Al Neri", "Clemenza", "Rocco Lampone", "Frank Pentangeli"],
+    "correct_option": "Al Neri"
+  },
+  {
+    "id": 50,
+    "question": "What is the name of the Corleone family's hometown in Sicily?",
+    "options": ["Palermo", "Corleone", "Catania", "Messina"],
+    "correct_option": "Corleone"
+  }
+]

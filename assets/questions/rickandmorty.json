@@ -1,0 +1,206 @@
+[
+  {
+    "id": 0,
+    "question": "What is the name of Rick's eccentric daughter in 'Rick and Morty'?",
+    "options": ["Beth", "Summer", "Jessica", "Tammy"],
+    "correct_option": "Beth"
+  },
+  {
+    "id": 1,
+    "question": "In 'Rick and Morty,' what is the name of Rick's catchphrase exclaiming his disapproval?",
+    "options": ["Wubba Lubba Dub Dub", "Squanchy", "Get Schwifty", "And that's the way the news goes"],
+    "correct_option": "Wubba Lubba Dub Dub"
+  },
+  {
+    "id": 2,
+    "question": "Which dimension does Evil Morty come from in 'Rick and Morty'?",
+    "options": ["Dimension C-137", "Dimension J-22", "Dimension Z-66", "Dimension F-87"],
+    "correct_option": "Dimension J-22"
+  },
+  {
+    "id": 3,
+    "question": "What is the name of the parallel universe where everyone is a pizza in 'Rick and Morty'?",
+    "options": ["Pizzaverse", "Pizza Dimension", "Pizza World", "Pepperoniverse"],
+    "correct_option": "Pizza Dimension"
+  },
+  {
+    "id": 4,
+    "question": "In 'Rick and Morty,' what is the name of the school that Morty attends?",
+    "options": ["Harry Herpson High School", "Morty's School for Gifted Children", "Dimension High School", "Smithville High School"],
+    "correct_option": "Harry Herpson High School"
+  },
+  {
+    "id": 5,
+    "question": "What is the name of Rick's favorite fast-food sauce that gained popularity in real life?",
+    "options": ["Szechuan Sauce", "Teriyaki Sauce", "Honey Mustard Sauce", "Ranch Sauce"],
+    "correct_option": "Szechuan Sauce"
+  },
+  {
+    "id": 6,
+    "question": "In 'Rick and Morty,' what is the name of the giant head that appears in the sky, demanding entertainment?",
+    "options": ["The Head Honcho", "The Supreme Leader", "The Almighty Head", "Cromulon"],
+    "correct_option": "Cromulon"
+  },
+  {
+    "id": 7,
+    "question": "What is the name of Rick's bird-like friend and recurring character in 'Rick and Morty'?",
+    "options": ["Phoenixperson", "Birdman", "Feathery Frank", "Squanchy"],
+    "correct_option": "Birdman"
+  },
+  {
+    "id": 8,
+    "question": "In 'Rick and Morty,' what is the name of Morty's sister?",
+    "options": ["Summer", "Jessica", "Tammy", "Beth"],
+    "correct_option": "Summer"
+  },
+  {
+    "id": 9,
+    "question": "What is the name of the intergalactic currency used in 'Rick and Morty'?",
+    "options": ["Flurbos", "Schmeckles", "Quatloos", "Galactic Credits"],
+    "correct_option": "Flurbos"
+  },
+  {
+    "id": 10,
+    "question": "In 'Rick and Morty,' what is the name of the alien parasite that implants false memories?",
+    "options": ["Fleeb", "Gazorpazorp", "Shleem", "Mr. Meeseeks"],
+    "correct_option": "Shleem"
+  },
+  {
+    "id": 11,
+    "question": "What is the name of Rick's ex-girlfriend and fellow freedom fighter in 'Rick and Morty'?",
+    "options": ["Unity", "Harmony", "Euphoria", "Serenity"],
+    "correct_option": "Unity"
+  },
+  {
+    "id": 12,
+    "question": "In 'Rick and Morty,' what is the name of the amusement park inside a homeless man?",
+    "options": ["Human Park", "Joyful Acres", "Blips and Chitz", "Bodily Funland"],
+    "correct_option": "Blips and Chitz"
+  },
+  {
+    "id": 13,
+    "question": "What is the name of the creature that lives in Rick's car battery and produces electricity?",
+    "options": ["Zigerion Scammer", "Microverse Battery", "Plutonian Energy Creature", "Battery Bumblebee"],
+    "correct_option": "Microverse Battery"
+  },
+  {
+    "id": 14,
+    "question": "In 'Rick and Morty,' what is the name of the alien species that steals and hoards shiny objects?",
+    "options": ["Gazorpian", "Gromflomite", "Cromulon", "Meeseeks"],
+    "correct_option": "Gazorpian"
+  },
+  {
+    "id": 15,
+    "question": "What is the name of the drug that Morty accidentally ingests, causing him to see disturbing alternate realities?",
+    "options": ["Mega Seeds", "Blitz and Chitz", "Death Crystals", "Dream Inceptors"],
+    "correct_option": "Death Crystals"
+  },
+  {
+    "id": 16,
+    "question": "In 'Rick and Morty,' what is the name of Jerry's favorite interdimensional television show?",
+    "options": ["Interdimensional Family", "Mythologs", "Ball Fondlers", "Real Fake Doors"],
+    "correct_option": "Ball Fondlers"
+  },
+  {
+    "id": 17,
+    "question": "What is the name of the mysterious and powerful being who grants wishes in 'Rick and Morty'?",
+    "options": ["The Monarch", "The Wishmaster", "The Meeseeks", "The Genie"],
+    "correct_option": "The Monarch"
+  },
+  {
+    "id": 18,
+    "question": "In 'Rick and Morty,' what is the name of Rick's favorite arcade game?",
+    "options": ["Roy: A Life Well Lived", "Blips and Chitz Adventures", "Galactic Smugglers", "Total Rickall"],
+    "correct_option": "Roy: A Life Well Lived"
+  },
+  {
+    "id": 19,
+    "question": "What is the name of the group led by Rick that opposes the Galactic Federation in 'Rick and Morty'?",
+    "options": ["The Vindicators", "The Resistance", "The Rebellion", "The Council of Ricks"],
+    "correct_option": "The Council of Ricks"
+  },
+  {
+    "id": 20,
+    "question": "In 'Rick and Morty,' what is the name of the artificial intelligence that controls the Smith family's household?",
+    "options": ["Cortana", "GLaDOS", "BethOS", "Jerrybot"],
+    "correct_option": "BethOS"
+  },
+  {
+    "id": 21,
+    "question": "What is the name of Rick's favorite alcoholic beverage in 'Rick and Morty'?",
+    "options": ["Plumbus Schnapps", "Flumbus Juice", "Turbulent Juice", "Blitz and Chitz Brew"],
+    "correct_option": "Turbulent Juice"
+  },
+  {
+    "id": 22,
+    "question": "In 'Rick and Morty,' what is the name of the insect-like race that worships Rick as their savior?",
+    "options": ["Zigerions", "Meeseeks", "Cromulons", "Gromflomites"],
+    "correct_option": "Gromflomites"
+  },
+  {
+    "id": 23,
+    "question": "What is the name of the futuristic amusement park where Rick takes Morty to fix an arcade game?",
+    "options": ["Blips and Chitz", "Joyful Acres", "Quantum Funland", "Rixty Minutes"],
+    "correct_option": "Joyful Acres"
+  },
+  {
+    "id": 24,
+    "question": "In 'Rick and Morty,' what is the name of the parasite that inserts happy memories into the minds of the Smith family?",
+    "options": ["Mr. Meeseeks", "Shleem", "Total Rickall", "Parasite X-13"],
+    "correct_option": "Total Rickall"
+  },
+  {
+    "id": 25,
+    "question": "What is the name of the planet that houses the intergalactic arcade 'Blips and Chitz'?",
+    "options": ["Xenon 14", "Gazorpazorp", "Pluto", "Roytopia"],
+    "correct_option": "Roytopia"
+  },
+  {
+    "id": 26,
+    "question": "In 'Rick and Morty,' what is the name of the alien species with a highly advanced society that lives inside a giant cloud?",
+    "options": ["Cloudians", "Nebulons", "Zeptonians", "Fart"],
+    "correct_option": "Fart"
+  },
+  {
+    "id": 27,
+    "question": "What is the name of the fictional detective agency created by Rick in 'Rick and Morty'?",
+    "options": ["Smith & Sanchez Investigations", "Dimensional Detectives", "Morty & Rick Mysteries", "The Rickshank Redemption"],
+    "correct_option": "Smith & Sanchez Investigations"
+  },
+  {
+    "id": 28,
+    "question": "In 'Rick and Morty,' what is the name of the alien species that communicates using telepathic sex?",
+    "options": ["Gazorpazorp", "Zigerions", "Birdpersonians", "Lovefinders"],
+    "correct_option": "Gazorpazorp"
+  },
+  {
+    "id": 29,
+    "question": "What is the name of the device that allows Rick to travel between different dimensions and realities?",
+    "options": ["Interdimensional Portal Gun", "Reality Warper", "Multiverse Manipulator", "Dimensional Shifter"],
+    "correct_option": "Interdimensional Portal Gun"
+  },
+  {
+    "id": 30,
+    "question": "In 'Rick and Morty,' what is the name of the daycare for Jerrys from alternate dimensions?",
+    "options": ["Jerry's World", "Jerry Daycare", "Dimensional Jerrys", "Jerry's Playhouse"],
+    "correct_option": "Jerry Daycare"
+  },
+  {
+    "id": 31,
+    "question": "What is the name of the planet where Morty accidentally releases a deadly gas in 'Rick and Morty'?",
+    "options": ["Toxicia", "Death World", "Planet Squanch", "Gazorpazorp"],
+    "correct_option": "Planet Squanch"
+  },
+  {
+    "id": 32,
+    "question": "In 'Rick and Morty,' what is the name of the hive mind species that clones and replaces individuals?",
+    "options": ["Meeseeks", "Unity", "Parasites", "Zigerions"],
+    "correct_option": "Unity"
+  },
+  {
+    "id": 33,
+    "question": "What is the name of the giant, hivemind version of Tammy in 'Rick and Morty'?",
+    "options": ["Tammy 2.0", "Tammynator", "Tammyzilla", "Tamithulu"],
+    "correct_option": "Tamithulu"
+  }
+]
